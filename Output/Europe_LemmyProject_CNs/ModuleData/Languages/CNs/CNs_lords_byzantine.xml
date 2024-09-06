@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="byzkadJAjaA" text="阿莱克修斯" />
+    <string id="byzwaQPRCaT" text="阿纳斯塔修斯" />
+    <string id="byzd6aTWH9m" text="勒达" />
+    <string id="byzzaHnL2It" text="腓力" />
+    <string id="byzlGrQRXKt" text="艾琳" />
+    <string id="byzHSlPLC4m" text="约安尼斯" />
+    <string id="byzxViSxONn" text="尼科拉欧斯" />
+    <string id="byzQvfUqzpF" text="尼科莱塔" />
+    <string id="byzysrWE08a" text="锡比拉" />
+    <string id="byzKwNdjleW" text="安娜" />
+    <string id="byzHSlPLC4m" text="约安尼斯" />
+    <string id="byzUTFGUeVQ" text="芝诺" />
+    <string id="byz2fYYfHUI" text="佩特拉" />
+    <string id="byzHGBWqbhQ" text="史蒂芬诺斯" />
+    <string id="byz6YiMWxVM" text="梅丽莎" />
+    <string id="byzkatzUyMI" text="佩特纳斯" />
+    <string id="byzozpbN30B" text="玛利亚" />
+    <string id="byzYDy8meZp" text="埃涅阿斯" />
+    <string id="byzyROMCMB3" text="墨涅拉俄斯" />
+    <string id="byzJFVseSa3" text="米迦勒" />
+    <string id="byzI2gnhOc2" text="波吕尼刻斯" />
+    <string id="byzozpbN30B" text="玛利亚" />
+    <string id="byz5eTb2xr7" text="君士坦丁" />
+    <string id="byzYBGCXSEx" text="约安娜" />
+    <string id="byzP7iNhhPl" text="乔吉斯" />
+    <string id="byzKwNdjleW" text="安娜" />
+    <string id="byzfGp76I0G" text="卡利尼亚" />
+    <string id="byzPQoWbtKo" text="苏内西奥斯" />
+    <string id="byzQGIAbglw" text="伊萨基奥斯" />
+    <string id="byzBosCJ3Rb" text="佩雷吉娅" />
+    <string id="byzmpgkzY0Y" text="凯里亚克" />
+    <string id="byzMBKTyzXQ" text="莱昂蒂亚" />
+    <string id="byzAWDNxFbh" text="瓦伦斯" />
+    <string id="byzAVEDQNvr" text="彭妮洛佩" />
+    <string id="byztRAl9AW2" text="德米特拉" />
+    <string id="byzL2SmutOy" text="厄瑞涅" />
+    <string id="byz26W8jFm9" text="希波吕托" />
+    <string id="byz7DJgows0" text="玛莎" />
+    <string id="byzsZebVgCp" text="查士丁尼" />
+    <string id="byzK2UUjntt" text="阿尔科恩" />
+    <string id="byz9xyXdX4I" text="伊奥赛福" />
+    <string id="byzbujI7g96" text="丽塔" />
+    <string id="byz4YOoGhpK" text="狄奥法诺" />
+    <string id="byzb10NS3yK" text="欧斐米" />
+    <string id="byz4YOld4FR" text="亚莉克希亚" />
+    <string id="byzOymqpgTX" text="康塔斯" />
+    <string id="byzVIs6y29A" text="狄奥尼西亚" />
+    <string id="byzRYksq67N" text="帕纳迪斯" />
+    <string id="byzIbgH3J03" text="诺娜" />
+    <string id="byzQuGKE0wg" text="阿尼蒂帕特拉" />
+    <string id="byztxyVEr0U" text="乔吉" />
+    <string id="byz4WiAzdHf" text="卡特琳娜" />
+    <string id="byzrf8KHRSP" text="狄俄墨得斯" />
+    <string id="byzL2SmutOy" text="厄瑞涅" />
+  </strings>
+</base>

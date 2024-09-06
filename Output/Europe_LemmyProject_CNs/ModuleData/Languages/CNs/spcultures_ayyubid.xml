@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+		<!--module_strings_ayyubid文件中的字符-->
+		<string id="xt8LJBA5" text="阿尤布王朝（Ayyubid dynasty），是12世纪－13世纪统治埃及、叙利亚、也门的伊斯兰教王国。该王朝由库尔德人建立，全盛时期的版图延伸至圣城麦加与北伊拉克。由阿尤布、谢尔库赫兄弟带领的阿尤布家族原先是赞吉王朝的士兵，后来在阿尤布之子、埃及民族英雄萨拉丁带领下获得了独立地位。
+萨拉丁于1169年成为埃及总督。1171年，萨拉丁在阿拉伯帝国法蒂玛王朝末代哈里发死后解散法蒂玛王朝，建立了阿尤布王朝。萨拉丁花费了接下来的十余年去东征西讨，到了1183年，王朝占有埃及、叙利亚、北部美索不达米亚、汉志、也门及西至突尼斯的北非沿岸。在1187年的哈丁战役中，又取得对耶路撒冷王国的胜利，但是不久以后十字军又重新控制了巴勒斯坦的海岸线。
+萨拉丁逝世后，他的儿子们争夺对王朝的控制权，最终由萨拉丁之弟阿迪勒一世于1200年登上苏丹的宝座。但自从1250年代起，尤其是蒙古人在1260年取得对阿尤布王朝的控制之后，王朝愈加衰微。蒙古人离开以后，马穆鲁克人在哈马推翻了阿尤布王朝最后一任统治者。
+尽管时间短暂，但是阿尤布王朝开创了一个经济繁荣的时期，并且使得伊斯兰文明再一次兴盛。"/>
+		<string id="PMpEA23H" text="阿尤布"/>
+		<string id="POiMnQdV" text="{?RULER.GENDER}苏丹娜{?}苏丹{\?} {RULER.NAME}"/>
+		<string id="Ayi4zCPN" text="{?RULER.GENDER}埃米拉{?}埃米尔{\?} {RULER.NAME}"/>
+		<string id="wfgB9JNp" text="埃米尔"/>
+		<string id="JV7a7osl" text="埃米拉"/>
+		<string id="YsWjYIp3" text="苏丹"/>
+		<string id="aQgk0bqb" text="苏丹娜"/>
+		<string id="8uBzVYSA" text="{?RULER.GENDER}苏丹娜{?}苏丹{\?} {RULER.NAME}"/>
+		<string id="RpVEKjVm" text="阿尤布苏丹国"/>
+
+		<!--spcultures_ayyubid文件中的字符-->
+		<string id="ayyubidfaction" text="阿尤布王朝"/>
+
+		<string id="n2FdWOtE" text="阿德拉姆" />
+		<string id="HEGo3ArK" text="阿提斯" />
+		<string id="kErcuRlk" text="阿亚姆" />
+		<string id="YRzakgRB" text="比达尔" />
+		<string id="6p3qkhil" text="比利亚" />
+		<string id="jgr2xo9r" text="达里姆" />
+		<string id="Emsd1xmS" text="达什瓦尔" />
+		<string id="xC3kCGte" text="迪尤尔" />
+		<string id="hF3F3u8u" text="杜瓦因" />
+		<string id="evXLa2XX" text="法里姆" />
+		<string id="bVtVsEUr" text="古拉森" />
+		<string id="NOchnEwX" text="古兹德" />
+		<string id="gDMdWisO" text="哈克尔" />
+		<string id="cdQO1eLv" text="哈塞德" />
+		<string id="GK18UxoX" text="胡尔" />
+		<string id="sWRKG0e1" text="伊尔塔斯" />
+		<string id="2mhCIkuB" text="贾伊姆" />
+		<string id="nyCtbjg6" text="贾梅尔" />
+		<string id="3oeb8Bav" text="贾西德" />
+		<string id="egOzKsKS" text="坎纳尔" />
+		<string id="YIpKt79X" text="库斯尔" />
+		<string id="r0dXXtoU" text="哈里德" />
+		<string id="MRTWZuF4" text="希拉姆" />
+		<string id="ZSraCpCs" text="拉赫姆" />
+		<string id="b7PVGEFM" text="拉特" />
+		<string id="0ZTMVxzw" text="拉齐夫" />
+		<string id="PknomRIt" text="马德万" />
+		<string id="la6HgVXN" text="米图尼斯" />
+		<string id="KSsRA8xm" text="穆尼姆" />
+		<string id="8UGqSVH5" text="纳松" />
+		<string id="UlPJ9OYH" text="尼德尔" />
+		<string id="rmpKsJwg" text="努尔丹" />
+		<string id="3pgwKPsf" text="卡拉伊斯" />
+		<string id="Qx7ZfdbV" text="库斯" />
+		<string id="M9gqEb6D" text="拉丹" />
+		<string id="f7u2p3x3" text="鲁特瓦尔" />
+		<string id="xyIDKleR" text="赛德" />
+		<string id="3rXHA6fI" text="萨马尔" />
+		<string id="5QHosdnk" text="苏代斯" />
+		<string id="eAro6IVf" text="沙拉尔" />
+		<string id="yToKqfa3" text="舒姆桑" />
+		<string id="5O81vNIS" text="塔赫亚" />
+		<string id="fWKnmnXb" text="塔克" />
+		<string id="Q2qLCrn2" text="泰斯" />
+		<string id="SOkQ7b7r" text="塔克尔" />
+		<string id="zCaeJ7GC" text="苏尔" />
+		<string id="0atYAnDF" text="图卢尔" />
+		<string id="xUSeJEd6" text="瓦汉" />
+		<string id="EKUSZBBj" text="乌苏尔" />
+		<string id="5LY1iQWh" text="亚库斯" />
+		<string id="aU9Cbb7j" text="阿斯拉尔" />
+		<string id="at4MdVBJ" text="法提德" />
+		<string id="NJvui1La" text="伊斯卡尔" />
+		<string id="FyVS24JZ" text="昆达尔" />
+		<string id="7Gt27Agy" text="马卢布" />
+		<string id="t63KuB1X" text="苏塞恩" />
+		<string id="u3ZpGN5e" text="尤哈" />
+
+		<string id="vAKB54zO" text="阿尔瓦" />
+		<string id="3LHG5Efi" text="阿亚萨" />
+		<string id="krMVSoId" text="鲍桑" />
+		<string id="YwwaCRSr" text="巴里沙" />
+		<string id="Y9030sOS" text="达里亚" />
+		<string id="qwab4ICX" text="迪玛" />
+		<string id="PukaQLbR" text="杜拉" />
+		<string id="nhwnbFJ0" text="加拉扎" />
+		<string id="b0rI89ob" text="哈拉" />
+		<string id="qDLWQjuC" text="哈萨瓦" />
+		<string id="Q26RhEj6" text="伊法尔" />
+		<string id="H1OFdfEe" text="伊斯纳" />
+		<string id="aqd6QHES" text="贾纳布" />
+		<string id="JhLPgr5x" text="金达" />
+		<string id="BfbZAB2K" text="卡尼扎特" />
+		<string id="JR1LKjIc" text="哈利萨" />
+		<string id="q8awVLdN" text="莱塔" />
+		<string id="ljYVVV1s" text="卢卡" />
+		<string id="YwQbvO9O" text="卢利娅" />
+		<string id="UAHJ2jTp" text="马哈伊尔" />
+		<string id="QtyF13kv" text="马塔" />
+		<string id="SNjqoBfZ" text="纳瓦" />
+		<string id="t4OvAlBq" text="努斯" />
+		<string id="Cj8vDOqR" text="拉汉" />
+		<string id="bdhXiiWK" text="雷玛" />
+		<string id="yJz9AxjY" text="里纳娜" />
+		<string id="TN5MjMJU" text="里萨" />
+		<string id="yd39Cman" text="鲁瓦" />
+		<string id="QCiqeUHm" text="萨比拉" />
+		<string id="N0cNsII3" text="萨菲亚" />
+		<string id="nTYJWGAa" text="沙萨" />
+		<string id="vYQ2SMEv" text="西班" />
+		<string id="v7tfA4y6" text="西亚凡" />
+		<string id="6d09RcZT" text="苏拉萨" />
+		<string id="LfP4vsfD" text="苏尔" />
+		<string id="imBaF78b" text="苏内卡" />
+		<string id="9aPxu1EB" text="提纳布" />
+		<string id="mWCY0aSL" text="瓦拉" />
+		<string id="CYXRzc1D" text="维桑" />
+		<string id="528J5D3b" text="亚斯米拉" />
+		<string id="ieube15m" text="扎哈拉" />
+		<string id="wYPWlhme" text="赞迪娜" />
+		<string id="8RolYmff" text="祖瓦伊拉" />
+
+		<string id="By82n3gR" text="巴尼阿斯卡" />
+		<string id="uwalgjVy" text="巴尼达米因" />
+		<string id="86LT9H6v" text="巴尼法苏斯" />
+		<string id="c39lybQJ" text="巴尼朱鲁尔" />
+		<string id="Iwe7Xpke" text="巴尼金延" />
+		<string id="irccq0qs" text="巴尼莱赫" />
+		<string id="DygS1Bef" text="巴尼穆沙拉" />
+		<string id="bgNQtbS7" text="巴尼尼尔" />
+		<string id="sAa3o3vw" text="巴尼萨鲁克" />
+		<string id="L4XUK5n4" text="巴尼亚塔什" />
+		<string id="WFfbxYu5" text="巴尼祖斯" />
+
+		<!--spkingdoms_ayyubid文件中的字符-->
+		<string id="ECM_ayyubidfaction" text="阿尤布王朝"/>
+		<string id="ECM_ayyubidmembers" text="阿尤布王朝"/>
+		<string id="ECM_ayyubidtitle" text="阿尤布苏丹国"/>
+		<string id="ECM_ayyubidrulertitle" text="苏丹"/>
+		<string id="ECM_ayyubidtext" text="阿尤布王朝（Ayyubid dynasty），是12世纪－13世纪统治埃及、叙利亚、也门的伊斯兰教王国。该王朝由库尔德人建立，全盛时期的版图延伸至圣城麦加与北伊拉克。由阿尤布、谢尔库赫兄弟带领的阿尤布家族原先是赞吉王朝的士兵，后来在阿尤布之子、埃及民族英雄萨拉丁带领下获得了独立地位。
+萨拉丁于1169年成为埃及总督。1171年，萨拉丁在阿拉伯帝国法蒂玛王朝末代哈里发死后解散法蒂玛王朝，建立了阿尤布王朝。萨拉丁花费了接下来的十余年去东征西讨，到了1183年，王朝占有埃及、叙利亚、北部美索不达米亚、汉志、也门及西至突尼斯的北非沿岸。在1187年的哈丁战役中，又取得对耶路撒冷王国的胜利，但是不久以后十字军又重新控制了巴勒斯坦的海岸线。
+萨拉丁逝世后，他的儿子们争夺对王朝的控制权，最终由萨拉丁之弟阿迪勒一世于1200年登上苏丹的宝座。但自从1250年代起，尤其是蒙古人在1260年取得对阿尤布王朝的控制之后，王朝愈加衰微。蒙古人离开以后，马穆鲁克人在哈马推翻了阿尤布王朝最后一任统治者。
+尽管时间短暂，但是阿尤布王朝开创了一个经济繁荣的时期，并且使得伊斯兰文明再一次兴盛。"/>
+
+		<!--spclans_ayyubid文件中的字符-->
+		<string id="Ayyubid_9Y1u2onl" text="阿尤布"/>
+		<string id="Ayyubid_Ayyubid_fvYgmrjG" text="伊斯梅尔"/>
+		<string id="Ayyubid_wFR1ukg9" text="达乌德"/>
+		<string id="Ayyubid_lUfFxWlk" text="穆罕默德"/>
+		<string id="Ayyubid_zY2TQC9t" text="穆萨"/>
+		<string id="Ayyubid_l6JtB97p" text="迪恩"/>
+		<string id="Ayyubid_Aft8nsgn" text="库巴德"/>
+		<string id="Ayyubid_o4wKMT9x" text="凯考斯"/>
+		<string id="Ayyubid_NI1paia1" text="阿克萨赖"/>
+
+		<!--heroes_ayyubid文件中的字符-->
+		<string id="ecmL90aSR5J" text="阿尤布王朝的苏丹是金达·阿尤布。"/>
+
+		<!--lords_ayyubid文件中的字符-->
+		<string id="Ayyubid_Ayyubid_r3oIoCr8" text="萨利赫·阿尤布" />
+		<string id="Ayyubid_Ayyubid_JhLPgr5x" text="金达·阿尤布" />
+		<string id="Ayyubid_xC3kCGte" text="迪乌" />
+		<string id="Ayyubid_TfNSLFNF" text="阿尼达·阿尤布" />
+		<string id="Ayyubid_WTCIOhvV" text="努卡尔·阿尤布" />
+		<string id="Ayyubid_psnfaZbC" text="希拉·阿尤布" />
+		<string id="Ayyubid_13YN3S79" text="拉萨纳·阿尤布" />
+		<string id="Ayyubid_n2FdWOtE" text="萨利赫·伊斯梅尔" />
+		<string id="Ayyubid_JPBz1blG" text="塔立格·伊斯梅尔" />
+		<string id="Ayyubid_6WWJpv88" text="马拉亚·伊斯梅尔" />
+		<string id="Ayyubid_saaeExBg" text="阿达斯·伊斯梅尔" />
+		<string id="Ayyubid_vAKB54zO" text="阿瓦·伊斯梅尔" />
+		<string id="Ayyubid_iOZtAOgk" text="纳赛尔·达乌德" />
+		<string id="Ayyubid_891zDKIl" text="哈卡·达乌德" />
+		<string id="Ayyubid_nBDKxiyC" text="鲁马·达乌德" />
+		<string id="Ayyubid_LJ6Intaq" text="尤瑟埃尔·达乌德" />
+		<string id="Ayyubid_MlmPJ502" text="马曼·达乌德" />
+		<string id="Ayyubid_IgSZcCW0" text="卡里斯·达乌德" />
+		<string id="Ayyubid_NiOxe8Y2" text="朱迪拉·达乌德" />
+		<string id="Ayyubid_brZGZw7D" text="阿齐娜·达乌德" />
+		<string id="Ayyubid_HSlqsoPK" text="塔姆扎·穆罕默德" />
+		<string id="Ayyubid_sPSqyA4R" text="萨赛塔·穆罕默德" />
+		<string id="Ayyubid_NOchnEwX" text="古兹德·穆罕默德" />
+		<string id="Ayyubid_VPnW6rA1" text="西姆拉·穆罕默德" />
+		<string id="Ayyubid_DADHWcX4" text="布希拉·穆罕默德" />
+		<string id="Ayyubid_Er3eFLdH" text="纳赛尔·穆罕默德" />
+		<string id="Ayyubid_aVkqqEOx" text="法里纳·穆罕默德" />
+		<string id="Ayyubid_kvxnbHjF" text="伊亚拉斯" />
+		<string id="Ayyubid_Atuo4eR7" text="莎依玛" />
+		<string id="Ayyubid_DsduCz91" text="萨尼特" />
+		<string id="Ayyubid_gQ1JZ8ow" text="乌克海" />
+		<string id="Ayyubid_5xOBW2Qz" text="阿希萨" />
+		<string id="Ayyubid_VAAIYJqI" text="塔拉" />
+		<string id="Ayyubid_DuTdWRbB" text="法尔赞娜" />
+		<string id="Ayyubid_t31RboMa" text="哈菲萨" />
+		<string id="Ayyubid_OtzsT453" text="祖阿德" />
+		<string id="Ayyubid_FP1nudkE" text="贾尔法尔" />
+		<string id="Ayyubid_sABDrRyF" text="阿奥丹" />
+		<string id="Ayyubid_7ZFm3GTF" text="萨尔玛" />
+		<string id="Ayyubid_EFgG35sB" text="祖拉卡" />
+		<string id="Ayyubid_iU8D2Psj" text="苏尔哈纳" />
+		<string id="Ayyubid_yWPpaXij" text="卡辛" />
+		<string id="Ayyubid_q72YO5vb" text="苏凯娜" />
+		<string id="Ayyubid_Xs2Ffm4I" text="哈沙" />
+		<string id="Ayyubid_Zq11L8aO" text="亚米娜" />
+		<string id="Ayyubid_KFYNhxLC" text="苏娜" />
+		<string id="Ayyubid_buvim3t7" text="扎努瓦" />
+		<string id="Ayyubid_MOH80RNb" text="哈贾拉" />
+		<string id="Ayyubid_ndSKTPib" text="阿卡尔" />
+		<string id="Ayyubid_j3iaqr6v" text="蒂卡" />
+		<string id="Ayyubid_03vNcoOt" text="蒂拉" />
+		<string id="Ayyubid_lRjHdd5l" text="卡班" />
+		
+		<!--spnpccharacters_ayyubid文件中的字符-->
+		<string id="ayyubid_ayyubid_Guard" text="守卫" />
+		<string id="ayyubid_ayyubid_XgjXfmM1" text="监狱守卫" />
+		<string id="ayyubid_ayyubid_bNnQt4jN" text="铁匠" />
+		<string id="ayyubid_ayyubid_UaN2lfwi" text="武器匠" />
+		<string id="ayyubid_WH7EGGIg" text="理发师" />
+		<string id="ayyubid_femaleinfant" text="女婴" />
+		<string id="ayyubid_femalechild" text="女孩" />
+		<string id="ayyubid_femaleteenager" text="少女" />
+		<string id="ayyubid_W2WXkiAh" text="赎金经纪人" />
+		<string id="ayyubid_LNNXiPyV" text="帮派头目保镖" />
+		<string id="ayyubid_reoVAtrE" text="公证商人" />
+		<string id="ayyubid_ECxiXTbF" text="公证匠人" />
+		<string id="ayyubid_bLMGbLF8" text="公证传教士" />
+		<string id="ayyubid_AlmaRAib" text="乡间公证人" />
+		<string id="ayyubid_maleinfant" text="男婴" />
+		<string id="ayyubid_malechild" text="男孩" />
+		<string id="ayyubid_maleteenager" text="少年" />
+		<string id="ayyubid_muu5cofb" text="市民" />
+		<string id="ayyubid_275LD0Gh" text="店员" />
+		<string id="ayyubid_CsjtWt1g" text="酒馆店主" />
+		<string id="ayyubid_twCIejxn" text="赌徒" />
+		<string id="ayyubid_zfCoeglY" text="吟游诗人" />
+		<string id="ayyubid_z6RMWTaA" text="酒馆侍女" />
+		<string id="ayyubid_jx8ohENz" text="盔甲匠" />
+		<string id="ayyubid_79ElOr2x" text="马匹贩子" />
+		<string id="ayyubid_thbcgVVO" text="商贩" />
+		<string id="ayyubid_malebeggar" text="乞丐" />
+		<string id="ayyubid_femalebeggar" text="女乞丐" />
+		<string id="ayyubid_X3KYysuv" text="舞者" />
+		<string id="ayyubid_IHKXNP9H" text="竞技大赛管理员" />
+
+		<string id="ayyubid_ECM_ayyubidpeasantwoman" text="阿尤布农民" />
+		<string id="ayyubid_ECM_caravan_master_ayyubid" text="阿尤布商队头领" />
+		<string id="ayyubid_ECM_armed_trader_ayyubid" text="阿尤布武装商贩" />
+		<string id="ayyubid_ECM_caravan_guard_ayyubid" text="阿尤布商队护卫" />
+		<string id="ayyubid_ECM_veteran_caravan_guard_ayyubid" text="阿尤布历战商队护卫" />
+		
+		<string id="ayyubid_aYY_ubH5HJUejD" text="阿尤布志愿兵" />
+		<string id="ayyubid_aYY_ubarb5nRri" text="阿尤布沙漠战士" />
+		<string id="ayyubid_aYY_ubwtmCSMrC" text="阿尤布步兵" />
+		<string id="ayyubid_aYY_ub5VBPoGYO" text="阿尤布新征射手" />
+		<string id="ayyubid_aYY_ubyhBagy1Y" text="阿尤布受训射手" />
+		<string id="ayyubid_aYY_ubB4ls6R2b" text="阿尤布叙利亚射手" />
+		<string id="ayyubid_aYY_ubtke6VCV6" text="阿尤布阿斯卡里" />
+		<string id="ayyubid_aYY_ubg1zvdEE3" text="阿尤布历战阿斯卡里" />
+		<string id="ayyubid_aYY_ubsNXtQchk" text="阿尤布新征士兵" />
+		<string id="ayyubid_aYY_ubLsHFY6p5" text="阿尤布部落骑手" />
+		<string id="ayyubid_aYY_ubTCuNAyPG" text="阿尤布库尔德骑兵" />
+		<string id="ayyubid_aYY_ubP4lcbA0b" text="阿尤布库尔德具装骑兵" />
+		<string id="ayyubid_aYY_ubbKBvFcVf" text="阿尤布新征矛兵" />
+		<string id="ayyubid_aYY_ubtIDOJvId" text="阿尤布历战矛兵" />
+		<string id="ayyubid_aYY_ubwrYJBc4g" text="阿尤布贵族侍卫" />
+		<string id="ayyubid_aYY_ubGvy2b4fa" text="阿尤布部落青年" />
+		<string id="ayyubid_aYY_ubdfv7E49q" text="阿尤布部落骑射手" />
+		<string id="ayyubid_aYY_ubjaK1A7CI" text="阿尤布历战骑射手" />
+		<string id="ayyubid_aYY_ub6oc7CXbI" text="阿尤布阿斯卡里骑射手" />
+		<string id="ayyubid_aYY_ubAoFZUbun" text="阿尤布贵族阿斯卡里骑射手" />
+
+		<string id="CPcJ2gRF" text="阿尤布民兵射手" />
+		<string id="tL6aGah4" text="阿尤布历战民兵射手" />
+		<string id="ULaNn3pp" text="阿尤布持矛民兵" />
+		<string id="Pd9qAiOu" text="阿尤布历战持矛民兵" />
+
+		<!--spnpccharactertemplates_ayyubid文件中字符-->
+		<string id="ECM_ayyubidpeasantman" text="阿尤布农民" />
+		<string id="ECM_townswoman_ayyubid" text="市民" />
+
+	</strings>
+</base>

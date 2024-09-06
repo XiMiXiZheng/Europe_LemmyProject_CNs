@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="Ayyubid_Ayyubid_r3oIoCr8" text="萨利赫·阿尤布" />
+    <string id="Ayyubid_Ayyubid_JhLPgr5x" text="金达·阿尤布" />
+    <string id="Ayyubid_xC3kCGte" text="迪乌" />
+    <string id="Ayyubid_TfNSLFNF" text="阿尼达·阿尤布" />
+    <string id="Ayyubid_WTCIOhvV" text="努卡尔·阿尤布" />
+    <string id="Ayyubid_psnfaZbC" text="希拉·阿尤布" />
+    <string id="Ayyubid_13YN3S79" text="拉萨纳·阿尤布" />
+    <string id="Ayyubid_n2FdWOtE" text="萨利赫·伊斯梅尔" />
+    <string id="Ayyubid_JPBz1blG" text="塔立格·伊斯梅尔" />
+    <string id="Ayyubid_6WWJpv88" text="马拉亚·伊斯梅尔" />
+    <string id="Ayyubid_saaeExBg" text="阿达斯·伊斯梅尔" />
+    <string id="Ayyubid_vAKB54zO" text="阿瓦·伊斯梅尔" />
+    <string id="Ayyubid_iOZtAOgk" text="纳赛尔·达乌德" />
+    <string id="Ayyubid_891zDKIl" text="哈卡·达乌德" />
+    <string id="Ayyubid_nBDKxiyC" text="鲁马·达乌德" />
+    <string id="Ayyubid_LJ6Intaq" text="尤瑟埃尔·达乌德" />
+    <string id="Ayyubid_MlmPJ502" text="马曼·达乌德" />
+    <string id="Ayyubid_IgSZcCW0" text="卡里斯·达乌德" />
+    <string id="Ayyubid_NiOxe8Y2" text="朱迪拉·达乌德" />
+    <string id="Ayyubid_brZGZw7D" text="阿齐娜·达乌德" />
+    <string id="Ayyubid_HSlqsoPK" text="塔姆扎·穆罕默德" />
+    <string id="Ayyubid_sPSqyA4R" text="萨赛塔·穆罕默德" />
+    <string id="Ayyubid_NOchnEwX" text="古兹德·穆罕默德" />
+    <string id="Ayyubid_VPnW6rA1" text="西姆拉·穆罕默德" />
+    <string id="Ayyubid_DADHWcX4" text="布希拉·穆罕默德" />
+    <string id="Ayyubid_Er3eFLdH" text="纳赛尔·穆罕默德" />
+    <string id="Ayyubid_aVkqqEOx" text="法里纳·穆罕默德" />
+    <string id="Ayyubid_kvxnbHjF" text="伊亚拉斯" />
+    <string id="Ayyubid_Atuo4eR7" text="莎依玛" />
+    <string id="Ayyubid_DsduCz91" text="萨尼特" />
+    <string id="Ayyubid_gQ1JZ8ow" text="乌克海" />
+    <string id="Ayyubid_5xOBW2Qz" text="阿希萨" />
+    <string id="Ayyubid_VAAIYJqI" text="塔拉" />
+    <string id="Ayyubid_DuTdWRbB" text="法尔赞娜" />
+    <string id="Ayyubid_t31RboMa" text="哈菲萨" />
+    <string id="Ayyubid_OtzsT453" text="祖阿德" />
+    <string id="Ayyubid_FP1nudkE" text="贾尔法尔" />
+    <string id="Ayyubid_sABDrRyF" text="阿奥丹" />
+    <string id="Ayyubid_7ZFm3GTF" text="萨尔玛" />
+    <string id="Ayyubid_EFgG35sB" text="祖拉卡" />
+    <string id="Ayyubid_iU8D2Psj" text="苏尔哈纳" />
+    <string id="Ayyubid_yWPpaXij" text="卡辛" />
+    <string id="Ayyubid_q72YO5vb" text="苏凯娜" />
+    <string id="Ayyubid_Xs2Ffm4I" text="哈沙" />
+    <string id="Ayyubid_Zq11L8aO" text="亚米娜" />
+    <string id="Ayyubid_KFYNhxLC" text="苏娜" />
+    <string id="Ayyubid_buvim3t7" text="扎努瓦" />
+    <string id="Ayyubid_MOH80RNb" text="哈贾拉" />
+    <string id="Ayyubid_ndSKTPib" text="阿卡尔" />
+    <string id="Ayyubid_j3iaqr6v" text="蒂卡" />
+    <string id="Ayyubid_03vNcoOt" text="蒂拉" />
+    <string id="Ayyubid_lRjHdd5l" text="卡班" />
+  </strings>
+</base>

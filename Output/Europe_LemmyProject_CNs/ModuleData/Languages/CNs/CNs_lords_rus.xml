@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="Sviatopolk II" text="斯维亚托波尔克二世" />
+    <string id="Olena" text="叶莲娜" />
+    <string id="Iaroslav" text="雅罗斯拉夫" />
+    <string id="Zbyslava" text="兹比斯拉瓦" />
+    <string id="Volodar" text="沃洛达里" />
+    <string id="Daryna" text="达莲娜" />
+    <string id="Vladimir II" text="弗拉基米尔二世" />
+    <string id="Gytha of Wessex" text="威塞克斯的吉莎" />
+    <string id="Mstislav I" text="姆斯基斯拉夫一世" />
+    <string id="Izyaslav" text="伊贾斯拉夫" />
+    <string id="Svyatoslav" text="斯维亚托斯拉夫" />
+    <string id="Marina" text="玛丽娜" />
+    <string id="Yaropolk II" text="亚罗波尔克二世" />
+    <string id="Helena" text="海伦娜" />
+    <string id="Viacheslav" text="维亚切斯拉夫" />
+    <string id="Davyd Sviatoslavich" text="达维德·斯维亚托斯拉维奇" />
+    <string id="Helena" text="海伦娜" />
+    <string id="Svetoslav" text="斯韦托斯拉夫" />
+    <string id="Sviatopolkovich" text="斯维亚托波尔科维奇" />
+    <string id="Arpada" text="阿帕德" />
+    <string id="Oleg Svyatoslavich" text="奥列格·斯维亚托斯拉维奇" />
+    <string id="Maria Yuryevna" text="玛丽亚·尤里耶芙娜" />
+    <string id="Vsevolod II" text="弗谢沃洛德二世" />
+    <string id="Maria" text="玛丽亚" />
+    <string id="Igor II" text="伊戈尔二世" />
+    <string id="Sviatoslav II" text="斯维亚托斯拉夫二世" />
+    <string id="Mstislav I" text="姆斯基斯拉夫一世" />
+    <string id="Christina Ingesdotter" text="克里斯蒂娜·英格斯多塔" />
+    <string id="Iziaslav" text="伊贾斯拉夫" />
+    <string id="Malmfred" text="马姆弗雷德" />
+  </strings>
+</base>

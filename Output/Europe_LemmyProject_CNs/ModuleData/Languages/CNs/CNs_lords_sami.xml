@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="Sami_Curtnaš" text="库尔纳什" />
+    <string id="Sami_Janihtá" text="雅尼赫塔" />
+    <string id="Sami_Biejan" text="比扬" />
+    <string id="Sami_Aliinná" text="阿利纳" />
+    <string id="Sami_Silvu" text="西尔穆" />
+    <string id="Sami_Olgá" text="奥尔加" />
+    <string id="Sami_Nihkke" text="尼赫克" />
+    <string id="Sami_Lindá" text="林达" />
+    <string id="Sami_Fretterat" text="弗雷特拉特" />
+    <string id="Sami_Emel" text="埃梅尔" />
+    <string id="Sami_Gáktu" text="加克图" />
+    <string id="Sami_Máren" text="马伦" />
+    <string id="Sami_Lenne" text="莱纳" />
+    <string id="Sami_Násti" text="纳斯蒂" />
+    <string id="Sami_Uvllá" text="乌弗拉" />
+    <string id="Sami_Viggu" text="维谷" />
+    <string id="Sami_Biijá" text="比亚" />
+    <string id="Sami_Ásllat" text="阿斯拉特" />
+    <string id="Sami_Bierdna" text="比尔德纳" />
+    <string id="Sami_Sofe" text="索菲" />
+    <string id="Sami_Hegon" text="赫贡" />
+    <string id="Sami_Mariánne" text="玛丽安娜" />
+    <string id="Sami_Jáhkot" text="雅克特" />
+    <string id="Sami_Iŋgir" text="因吉尔" />
+    <string id="Sami_Áillon" text="阿永" />
+    <string id="Sami_Filpa" text="菲尔帕" />
+    <string id="Sami_Leammá" text="莱马" />
+    <string id="Sami_Livli" text="丽芙" />
+    <string id="Sami_Bijáš" text="比嘉" />
+    <string id="Sami_Sáddja" text="萨迪亚" />
+  </strings>
+</base>

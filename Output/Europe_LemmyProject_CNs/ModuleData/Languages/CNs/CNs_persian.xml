@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+        <string id="lord_seljuk_1a.text"
+                text="巴尔克雅鲁克是1094年到1095年塞尔柱帝国在位的苏丹。他是马利克沙的儿子，曾经与兄弟穆罕默德一世、辛札儿、马赫穆德一世争夺位置。他在年轻时即位，当时主要工作是控制帝国中心地区波斯，他在位时期叙利亚来了第一批十字军。但是他仍控制了大马士革、摩苏尔。只是当时家族之中存在着内乱。十年后，他死在波斯的博鲁杰尔德，有些人说运回伊斯法汗安葬。"/>
+        <string id="Berkyaruq" text="巴尔基亚鲁克"/>
+        <string id="Birgül" text="比居尔"/>
+        <string id="Malik-Shah" text="马利克·沙二世"/>
+        <string id="Muhammad I Tapar" text="穆罕默德一世塔帕尔"/>
+        <string id="Nistandar Jahan Khatun" text="尼斯坦达尔·贾汉·可敦"/>
+        <string id="Ridwan" text="拉德温"/>
+        <string id="Aylin" text="艾林"/>
+        <string id="Duqaq" text="杜卡克"/>
+        <string id="Ceyda" text="塞达"/>
+        <string id="Ilghazi" text="依尔加齐"/>
+        <string id="Farkhunda" text="法克胡达"/>
+        <string id="Toghtekin" text="托特金"/>
+        <string id="Zumurrud Khatun" text="祖穆尔鲁德·可敦"/>
+        <string id="Mu'ayyid al-Mulk" text="穆阿伊德·穆尔克"/>
+        <string id="Nahla" text="娜拉"/>
+        <string id="Kvirike IV" text="克维里克四世"/>
+        <string id="Eteri" text="埃特里"/>
+        <string id="Sunqur" text="桑库"/>
+        <string id="Sulafa" text="苏拉法"/>
+        <string id="Qiwam al-Dawla" text="齐瓦姆·达乌拉"/>
+        <string id="Zumurrud" text="祖穆尔鲁德"/>
+        <string id="Manuchihr II" text="马努齐尔二世"/>
+        <string id="Yasemin" text="亚塞明"/>
+        <string id="Hüma" text="胡马"/>
+        <string id="Saltuk I" text="萨尔图克一世"/>
+        <string id="Aygül" text="艾居尔"/>
+        <string id="Al-Mustazhir" text="穆斯塔齐尔"/>
+        <string id="Ismah Khatun" text="伊斯玛赫·可敦"/>
+        <string id="Al-Mustarshid" text="穆斯塔尔希德"/>
+        <string id="al-Kafi" text="卡菲"/>
+        <string id="Garshasp II" text="伽萨斯普二世"/>
+        <string id="Sitara Khatun" text="锡塔拉·可敦"/>
+        <string id="Sorḵāb" text="索拉布"/>
+        <string id="Yezda" text="叶兹达"/>
+        <string id="Rusudan" text="鲁苏丹"/>
+        <string id="Afridun I" text="阿夫里敦一世"/>
+        <string id="Arjen" text="阿尔耶"/>
+        <string id="Manuchihr III" text="马努齐尔三世"/>
+        <string id="E11PE_desc"
+                text="波斯是伊朗在欧洲的古希腊语和拉丁语的旧称译音，也就是说波斯是伊朗的古名。历史上在西亚、中亚、南亚地区曾建立过多个的帝国，如阿契美尼德王朝、萨珊王朝、萨法维王朝等。极盛疆域东起印度河及帕米尔高原，西临巴尔干半岛与地中海，南抵亚丁湾和红海，北达高加索山脉跟咸海，波斯帝国是第一个地跨亚欧非三洲的大帝国。波斯兴起于伊朗高原的西南部，自从公元前600年开始，希腊人把这一地区叫做“波斯”。直到1935年，欧洲人一直使用波斯来称呼这个地区和位于这一地区的古代君主制国家。而波斯人则从萨珊王朝（波斯第二帝国）时期起开始称呼自己的古代君主制国家为埃兰沙赫尔，意为“雅利安人的帝国”。"/>
+        <string id="E11PE_adj_cul" text="波斯"/>
+        <string id="E11PE_cul_name" text="波斯"/>
+        <string id="E11PE_ruler_title" text="{?RULER.GENDER}苏丹娜{?}苏丹{\?}{RULER.NAME}"/>
+        <string id="E11PE_noble_title" text="{?RULER.GENDER}埃米拉{?}埃米尔{\?}{RULER.NAME}"/>
+        <string id="E11PE_noble_m" text="埃米尔"/>
+        <string id="E11PE_noble_f" text="埃米拉"/>
+        <string id="E11PE_ruler_m" text="苏丹"/>
+        <string id="E11PE_ruler_f" text="苏丹娜"/>
+        <string id="E11PE_ruler_sp" text="{?RULER.GENDER}苏丹娜{?}苏丹{\?}{RULER.NAME}"/>
+        <string id="E11PE_n_cul" text="波斯"/>
+        <string id="E11PE_adj_fac" text="波斯"/>
+        <string id="E11PE_short_term" text="波斯"/>
+        <string id="E11PE_formal_name" text="波斯帝国"/>
+        <string id="E11PE_informal_name" text="波斯人"/>
+        <string id="Seljuk" text="塞尔柱"/>
+        <string id="Artuq" text="阿尔图格"/>
+        <string id="Burid" text="布瑞特"/>
+        <string id="al-Mulk" text="穆尔克"/>
+        <string id="Kvirikian" text="克维里基安"/>
+        <string id="Ahmadilis" text="艾哈迈迪里"/>
+        <string id="Kerbogha" text="卡布卡"/>
+        <string id="Shirvanshah" text="希尔凡沙阿"/>
+        <string id="Saltukids" text="塞尔图基德"/>
+        <string id="Abbasid" text="阿巴斯"/>
+        <string id="Kakuyid" text="卡库伊德"/>
+        <string id="Banu Annaz" text="安纳兹德"/>
+        <string id="Kasranid" text="卡斯拉尼德"/>
+        <string id="E11TUPE_spcul_name" text="波斯"/>
+        <string id="E11TUPE_spcul_text"
+                text="波斯是伊朗在欧洲的古希腊语和拉丁语的旧称译音，也就是说波斯是伊朗的古名。历史上在西亚、中亚、南亚地区曾建立过多个的帝国，如阿契美尼德王朝、萨珊王朝、萨法维王朝等。极盛疆域东起印度河及帕米尔高原，西临巴尔干半岛与地中海，南抵亚丁湾和红海，北达高加索山脉跟咸海，波斯帝国是第一个地跨亚欧非三洲的大帝国。波斯兴起于伊朗高原的西南部，自从公元前600年开始，希腊人把这一地区叫做“波斯”。直到1935年，欧洲人一直使用波斯来称呼这个地区和位于这一地区的古代君主制国家。而波斯人则从萨珊王朝（波斯第二帝国）时期起开始称呼自己的古代君主制国家为埃兰沙赫尔，意为“雅利安人的帝国”。"/>
+        <string id="89DB0CF1" text="阿里"/>
+        <string id="8ABA6443" text="穆罕默德"/>
+        <string id="A18706F6" text="哈桑"/>
+        <string id="115909DC" text="侯赛因"/>
+        <string id="EB03AE5B" text="雷扎"/>
+        <string id="2D5FD2E6" text="阿米尔"/>
+        <string id="F7F7712E" text="赛义德"/>
+        <string id="87C79CD4" text="迈赫迪"/>
+        <string id="113790EE" text="哈米德"/>
+        <string id="5B3CBB3A" text="法哈德"/>
+        <string id="1EC2BD83" text="贝鲁兹"/>
+        <string id="DF70D82D" text="沙赫拉姆"/>
+        <string id="86A6636A" text="迈赫尔达德"/>
+        <string id="5DB0DB91" text="库鲁什"/>
+        <string id="18FE9F2A" text="索黑尔"/>
+        <string id="67F1EC72" text="巴赫曼"/>
+        <string id="3DCC0EFC" text="阿尔德希尔"/>
+        <string id="A325DB32" text="卡姆兰"/>
+        <string id="4D59F18D" text="萨曼"/>
+        <string id="61D892EA" text="拉明"/>
+        <string id="A8A24956" text="比詹"/>
+        <string id="221D5CF6" text="纳维德"/>
+        <string id="23C4F597" text="哈迪"/>
+        <string id="2AEC0C5C" text="阿什坎"/>
+        <string id="2C81F7DA" text="巴巴克"/>
+        <string id="9E7B69C5" text="西亚瓦什"/>
+        <string id="C8F65911" text="阿尔曼"/>
+        <string id="92276E50" text="罗斯塔姆"/>
+        <string id="CADE60C1" text="达留什"/>
+        <string id="1E4724D6" text="法尔沙德"/>
+        <string id="08971413" text="沙哈卜"/>
+        <string id="FA3F4306" text="法尔扎德"/>
+        <string id="F2442FB0" text="帕亚姆"/>
+        <string id="885BD259" text="贝扎德"/>
+        <string id="BE1F1160" text="埃哈桑"/>
+        <string id="32CC772D" text="普亚"/>
+        <string id="AE46454C" text="尼马"/>
+        <string id="7CC42EF2" text="奥米德"/>
+        <string id="CC8AADFF" text="希琳"/>
+        <string id="8933CEE4" text="法拉"/>
+        <string id="642B80E7" text="帕里萨"/>
+        <string id="FC317FDE" text="阿扎尔"/>
+        <string id="C149400E" text="塔赫米娜"/>
+        <string id="C5FF62AB" text="马哈斯蒂"/>
+        <string id="9F3F771D" text="索拉雅"/>
+        <string id="3C998411" text="罗克珊娜"/>
+        <string id="A7A716E4" text="巴努"/>
+        <string id="8CEDF4CF" text="曼达娜"/>
+        <string id="CB10303E" text="古纳尔"/>
+        <string id="25E1C047" text="阿尔加万"/>
+        <string id="59410A78" text="罗尚纳克"/>
+        <string id="BE8E69EF" text="赛佩德"/>
+        <string id="90CDF718" text="马尔贾内"/>
+        <string id="1F53F255" text="戈尔达法里德"/>
+        <string id="7D2F8A9F" text="阿娜希塔"/>
+        <string id="E497A8E4" text="西米恩"/>
+        <string id="94B3161B" text="纳斯林"/>
+        <string id="D0C84C2D" text="罗雅"/>
+        <string id="E6FB9199" text="曼尼泽"/>
+        <string id="E5C440EA" text="尼卢法尔"/>
+        <string id="7F874EAC" text="霍马"/>
+        <string id="5C46DF41" text="雅萨曼"/>
+        <string id="38112254" text="古纳尔"/>
+        <string id="E6CE1DB1" text="扎林"/>
+        <string id="CAE9E1BB" text="梅赫纳兹"/>
+        <string id="3CBA1A03" text="法里德"/>
+        <string id="DFD15A0F" text="贝赫纳兹"/>
+        <string id="367C4AE4" text="齐巴"/>
+        <string id="CCA428E8" text="沙纳兹"/>
+        <string id="54C4538D" text="内达"/>
+        <string id="38A61194" text="帕尔瓦纳"/>
+        <string id="2EF4CA3A" text="萨哈尔"/>
+        <string id="0386BEF3" text="帕丽"/>
+        <string id="490A6899" text="阿齐塔"/>
+        <string id="2AB90B1E" text="达里亚"/>
+        <string id="4AC47667" text="沙迪"/>
+        <string id="72C18E49" text="卡扎尔"/>
+        <string id="F9663C2C" text="萨法维"/>
+        <string id="8EC15465" text="萨珊"/>
+        <string id="1DD452A9" text="巴列维"/>
+        <string id="98080261" text="基安尼"/>
+        <string id="C4EA4265" text="阿拉维"/>
+        <string id="E3023BD6" text="帕尔提亚"/>
+        <string id="D226BABB" text="马尔兹班"/>
+        <string id="2B5F8DF7" text="代拉米特"/>
+        <string id="AA13D88A" text="巴尔马克"/>
+        <string id="seljuk_empire_name" text="塞尔柱帝国"/>
+        <string id="seljuk_empire_text" text="塞尔柱帝国，是11世纪塞尔柱突厥人在中亚、西亚建立的伊斯兰帝国，亦称塞尔柱王朝。
+塞尔柱人属突厥乌古斯部落联盟（乌古斯叶护国）4大部族的一支，初居中亚北部的大草原地区，以其酋长塞尔柱克的名字命名。1040年，塞尔柱之孙图格鲁克伯克在丹丹坎战役胜利后占领呼罗珊；进而征服波斯全境，并于1055年进入巴格达。哈里发卡伊姆感谢图格鲁克伯克为他解除了什叶派布韦希王朝的控制，封他为苏丹，号为“东方和西方之王”。1071年，图格里勒伯克之侄和继承者阿尔普－阿尔斯兰（1063-1072在位）在曼齐克特大败拜占廷军，俘获拜占廷皇帝罗曼努斯四世，于是拜占廷所属小亚细亚大部分地区尽归其手。马利克沙在位时（1072-1092）是塞尔柱帝国极盛时期。"/>
+        <string id="persian_guard" text="守卫"/>
+        <string id="persian_persian_CsjtWt1g" text="酒馆老板"/>
+        <string id="persian_persian_twCIejxn" text="竞赛主办人"/>
+        <string id="persian_persian_zfCoeglY" text="吟游诗人"/>
+        <string id="persian_persian_z6RMWTaA" text="酒馆侍女"/>
+        <string id="persian_persian_jx8ohENz" text="盔甲匠"/>
+        <string id="persian_persian_79ElOr2x" text="马匹贩子"/>
+        <string id="persian_thbcgVVO" text="商贩"/>
+        <string id="persian_malebeggar" text="乞丐"/>
+        <string id="persian_femalebeggar" text="乞丐"/>
+        <string id="persian_X3KYysuv" text="舞者"/>
+        <string id="persian_IHKXNP9H" text="竞赛大师"/>
+        <string id="persian_maleinfant" text="男婴"/>
+        <string id="persian_malechild" text="男孩"/>
+        <string id="persian_maleteenager" text="少年"/>
+        <string id="persian_femaleinfant" text="女婴"/>
+        <string id="persian_femalechild" text="女孩"/>
+        <string id="persian_femaleteenager" text="少女"/>
+        <string id="persian_village_woman_persian.name" text="波斯农民"/>
+        <string id="persian_caravan_master_persian.name" text="波斯商队头领"/>
+        <string id="persian_armed_trader_persian.name" text="波斯武装商贩"/>
+        <string id="persian_caravan_guard_persian.name" text="波斯商队护卫"/>
+        <string id="persian_veteran_caravan_guard_persian.name" text="波斯资深商队护卫"/>
+        <string id="persian_275LD0Gh" text="店员"/>
+        <string id="persian_maleinfant" text="男婴"/>
+        <string id="persian_malechild" text="男孩"/>
+        <string id="persian_maleteenager" text="少年"/>
+        <string id="persian_muu5cofb" text="镇民"/>
+        <string id="persian_AlmaRAib" text="乡间公证人"/>
+        <string id="persian_bLMGbLF8" text="公证传教士"/>
+        <string id="persian_ECxiXTbF" text="公证匠人"/>
+        <string id="persian_reoVAtrE" text="公证商人"/>
+        <string id="persian_LNNXiPyV" text="帮派头目保镖"/>
+        <string id="persian_W2WXkiAh" text="赎金经纪人"/>
+        <string id="persian_femaleinfant" text="女婴"/>
+        <string id="persian_femalechild" text="女孩"/>
+        <string id="persian_femaleteenager" text="少女"/>
+        <string id="persian_WH7EGGIg" text="理发师"/>
+        <string id="persian_UaN2lfwi" text="武器匠"/>
+        <string id="persian_bNnQt4jN" text="铁匠"/>
+        <string id="persian_XgjXfmM1" text="监狱守卫"/>
+        <string id="persian_persian_kuttabi.name" text="库塔比"/>
+        <string id="persian_persian_ghulam_spearman.name" text="波斯古拉姆矛兵"/>
+        <string id="persian_persian_veteran_ghulam_spearman.name" text="波斯资深古拉姆矛兵"/>
+        <string id="persian_persian_at_thaqal_ghulam.name" text="波斯塔卡古拉姆"/>
+        <string id="persian_persian_pushan_dar_ghulam.name" text="波斯普沙达尔古拉姆"/>
+        <string id="persian_persian_tabardaran_ghulam.name" text="波斯塔巴达兰古拉姆"/>
+        <string id="persian_persian_ghulam_archer.name" text="波斯古拉姆射手"/>
+        <string id="persian_persian_veteran_ghulam_archer.name" text="波斯资深古拉姆射手"/>
+        <string id="persian_persian_trikash_band_ghulam.name" text="波斯特里卡什-班德古拉姆"/>
+        <string id="persian_persian_charkh_ghulam.name" text="波斯查克赫古拉姆"/>
+        <string id="persian_persian_elite_charkh_ghulam.name" text="波斯精英查克赫古拉姆"/>
+        <string id="persian_persian_ghulam_conscript.name" text="波斯古拉姆征召兵"/>
+        <string id="persian_persian_ghulam_horse_archer.name" text="波斯古拉姆弓骑兵"/>
+        <string id="persian_persian_veteran_ghulam_horse_archer.name" text="波斯资深古拉姆弓骑兵"/>
+        <string id="persian_persian_ghulam_lancer.name" text="波斯古拉姆枪骑兵"/>
+        <string id="persian_persian_veteran_ghulam_lancer.name" text="波斯资深古拉姆枪骑兵"/>
+    </strings>
+</base>

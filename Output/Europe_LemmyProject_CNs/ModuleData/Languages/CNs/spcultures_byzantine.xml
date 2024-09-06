@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+		<!--module_strings_ayyubid文件中的字符-->
+		<string id="byz776J8Fng" text="巴尔迪莫斯"/>
+		<string id="byzyvdQ9MD6" text="特莉娅"/>
+		<string id="byzantinedescription" text="东罗马帝国是一个历史上知名的帝国。罗马帝国自东西分治后，帝国东部罗马政权的延续被称为东罗马帝国（相对于帝国西部的西罗马帝国），16世纪以后，开始有学者称之为拜占庭帝国。其国民在其一千多年的存在期内自称为“罗马帝国”。帝国位于欧洲东部，领土曾包括欧亚非三大洲的亚洲西部和非洲北部，是古代和中世纪欧洲历史上最悠久的君主制国家。"/>
+		<string id="byzantineofficial" text="执政官"/>
+		<string id="byzantineofficialf" text="执政官"/>
+		<string id="byzantineruler" text="皇帝"/>
+		<string id="byzantinerulerf" text="皇帝"/>
+		<string id="byzantinerulerspeech" text="{?RULER.GENDER}女皇{?}皇帝{\?} {RULER.NAME}"/>
+		<string id="byzantinerulertitle" text="{?RULER.GENDER}女皇{?}皇帝{\?} {RULER.NAME}"/>
+		<string id="byzantinenobletitle" text="{?RULER.GENDER}执政官{?}执政官{\?} {RULER.NAME}"/>
+		<string id="byzantinemembers" text="拜占庭帝国"/>
+        <string id="byzantineadjective" text="拜占庭帝国"/>
+		<string id="byzantineshortterm" text="拜占庭帝国"/>
+		<string id="byzantineformalname" text="拜占庭帝国"/>
+		<string id="byzantinecultureadjective" text="拜占庭帝国"/>
+		<string id="byzantineneutralterm" text="拜占庭帝国"/>
+
+		<!--spcultures_byzantine文件中的字符-->
+		<string id="byzantinefaction" text="拜占庭帝国"/>
+		<string id="byzX0kKBzsW" text="东罗马帝国是一个历史上知名的帝国。罗马帝国自东西分治后，帝国东部罗马政权的延续被称为东罗马帝国（相对于帝国西部的西罗马帝国），16世纪以后，开始有学者称之为拜占庭帝国。其国民在其一千多年的存在期内自称为“罗马帝国”（拉丁语：Imperium Romanum；希腊语：Βασιλεία Ρωμαίων）。帝国位于欧洲东部，领土曾包括欧亚非三大洲的亚洲西部和非洲北部，是古代和中世纪欧洲历史上最悠久的君主制国家。"/>
+
+		<string id="v9B50R0Q" text="阿卡里翁" />
+		<string id="aeLgc0cU" text="阿克顿" />
+		<string id="tWDyWroN" text="阿姆农" />
+		<string id="uTFjknE2" text="安德罗斯" />
+		<string id="fXgftgNv" text="阿法尼斯" />
+		<string id="QjJAbaoT" text="阿皮斯" />
+		<string id="zInIqBD0" text="阿雷尼科斯" />
+		<string id="W1uwgvAQ" text="阿里昂" />
+		<string id="5VzWRMTn" text="阿尔提门德罗斯" />
+		<string id="rGuYLmez" text="阿斯基隆" />
+		<string id="J1nh9YiN" text="阿提隆" />
+		<string id="NBAGX54b" text="阿维戈斯" />
+		<string id="9cDw6vPF" text="卡多梅诺斯" />
+		<string id="R11i2uVl" text="卡利图斯" />
+		<string id="lD1sl2XC" text="卡姆农" />
+		<string id="LP7yYoGQ" text="卡里博斯" />
+		<string id="VhbasI9J" text="卡斯托尔" />
+		<string id="VG9ng2n2" text="昌迪翁" />
+		<string id="aezwJGvY" text="切农" />
+		<string id="acp2IcMs" text="克罗托尔" />
+		<string id="XKxeaF0I" text="达利多斯" />
+		<string id="pCBkH35Q" text="达诺斯" />
+		<string id="2OJEyP0d" text="达西斯" />
+		<string id="SoTUisL3" text="德尔提索斯" />
+		<string id="2uKoNaSG" text="德诺斯" />
+		<string id="HfuAdGQX" text="德斯托尔" />
+		<string id="lEHtUGed" text="迪奥科索斯" />
+		<string id="5EiKEdi5" text="多里昂" />
+		<string id="yAZC6F7P" text="埃克索里奥斯" />
+		<string id="hyOgAehG" text="埃马里斯" />
+		<string id="rUvnbDi2" text="恩库里翁" />
+		<string id="KjzJjj5n" text="埃龙尼斯" />
+		<string id="gYit4RTe" text="欧霍尔" />
+		<string id="oQCZp9qv" text="尤门尼斯" />
+		<string id="uW38UtSH" text="尤皮托尔" />
+		<string id="WfAuSpJq" text="尤托斯" />
+		<string id="RyorjCXF" text="加隆" />
+		<string id="ZFlIT1tH" text="加尼米诺斯" />
+		<string id="f3hTGKIP" text="加里托普斯" />
+		<string id="nqxxr9We" text="加瓦隆" />
+		<string id="iDxygnVF" text="格罗西奥" />
+		<string id="rFbAjSWM" text="戈里戈斯" />
+		<string id="NxDJcR2c" text="哈拉提奥斯" />
+		<string id="tgVJZ1Uc" text="赫卡龙" />
+		<string id="wQJGxBJI" text="霍夫塔拉莫斯" />
+		<string id="4lEEqyCg" text="雅可里奥斯" />
+		<string id="DwzrsJxS" text="贾马尼斯" />
+		<string id="IU63oxWD" text="杰米农" />
+		<string id="t1OpnZph" text="耶雷莫斯" />
+		<string id="katzUyMI" text="约龙" />
+		<string id="GWaJ7Ksq" text="乔库洛斯" />
+		<string id="iJvIH6NP" text="尤瑟罗斯" />
+		<string id="BCy1KpvR" text="拉卡利翁" />
+		<string id="6LMiTKZz" text="拉梅农" />
+		<string id="F13aYbuk" text="拉瓦利奥斯" />
+		<string id="NFIQZOPQ" text="里奥西奥斯" />
+		<string id="lbTMVAcI" text="洛西斯" />
+		<string id="bHbR5Mgy" text="利科斯" />
+		<string id="CbxLZdVg" text="马蒂斯" />
+		<string id="X21PahQn" text="梅纳克利斯" />
+		<string id="am2UnbAK" text="梅诺尔" />
+		<string id="tTuaiLS6" text="梅里托尔" />
+		<string id="qqW5n5Ox" text="米洛斯" />
+		<string id="5yFy4U4i" text="莫里农" />
+		<string id="ud6rhXbn" text="莫斯提罗斯" />
+		<string id="04zSjaRe" text="纳尔提罗斯" />
+		<string id="FF3dQKc1" text="内索尔" />
+		<string id="u1lTJoPO" text="尼莫斯" />
+		<string id="sDFb1PRI" text="诺尔托斯" />
+		<string id="QGIAbglw" text="奥布龙" />
+		<string id="AEaRpupL" text="奥赫罗斯" />
+		<string id="ZmQx4gT3" text="奥利科尔" />
+		<string id="pq0w8kry" text="奥拉科斯" />
+		<string id="JFVseSa3" text="奥罗斯" />
+		<string id="7UkzXWTQ" text="奥萨里奥斯" />
+		<string id="cZIhxH9e" text="帕卡里奥斯" />
+		<string id="9sokmYMZ" text="帕德莫斯" />
+		<string id="NXOOJs2X" text="帕特里斯" />
+		<string id="plx8kkxa" text="佩利科斯" />
+		<string id="1cKxsHSh" text="彭顿" />
+		<string id="vgBRa2BE" text="波拉克利斯" />
+		<string id="q186AQHt" text="法登" />
+		<string id="yhfJVEe0" text="费伦诺斯" />
+		<string id="LMWiJi6V" text="菲伦托斯" />
+		<string id="XZxIpCQH" text="福里斯" />
+		<string id="VJbAdJe4" text="普里奥斯" />
+		<string id="M9CWBbMe" text="兰诺斯" />
+		<string id="P1zsoSPN" text="罗瓦里翁" />
+		<string id="Ho6zsGTI" text="萨哈尼翁" />
+		<string id="5eTb2xr7" text="萨尼翁" />
+		<string id="Zm4a2xsf" text="萨鲁西奥斯" />
+		<string id="egCbjHDT" text="塞姆农" />
+		<string id="GeJobcre" text="西诺尔" />
+		<string id="E4WhEvu7" text="索塞里斯" />
+		<string id="FClEZIkT" text="索沃斯" />
+		<string id="rVUhYuvE" text="苏特里奥斯" />
+		<string id="PDK4FHAx" text="苏维斯" />
+		<string id="Axe5FkET" text="塔利松" />
+		<string id="PR4IqkTW" text="泰梅翁" />
+		<string id="9xyXdX4I" text="塔罗斯" />
+		<string id="zfUhnG7y" text="塞梅斯提奥斯" />
+		<string id="9mQuSI3c" text="图里亚多斯" />
+		<string id="P7iNhhPl" text="提诺普斯" />
+		<string id="kfNW01y5" text="乌卡西奥斯" />
+		<string id="wbJzSg3X" text="乌尔贝索斯" />
+		<string id="SRncaw79" text="乌里奥斯" />
+		<string id="pRbKbPK3" text="瓦德里奥斯" />
+		<string id="TiJOjUi5" text="瓦拉奥斯" />
+		<string id="5nEh20ju" text="瓦西洛普斯" />
+		<string id="VN1D1Qps" text="维拉诺尔" />
+		<string id="QNtdUfis" text="维米奥罗斯" />
+		<string id="bWb245zO" text="沃雷奥斯" />
+		<string id="aH2ncPbK" text="扎拉索斯" />
+		<string id="WTePYMNF" text="扎拉克利斯" />
+		<string id="p0hcyZdp" text="泽农" />
+		<string id="3RBVn5yi" text="佐罗斯" />
+		<string id="uCyAnus4" text="佐斯提奥斯" />
+		<string id="7hYr7jQ7" text="勒乌特罗斯" />
+		<string id="e7dayl1i" text="马维农" />
+		<string id="3EZMoUlp" text="纳尔米斯" />
+		<string id="PvoTcJHa" text="纳塞洛斯" />
+		<string id="QumqvLnP" text="奥基沃斯" />
+		<string id="gxHrt6bC" text="法马诺尔" />
+		<string id="6IDmRZ5k" text="费斯托斯" />
+		<string id="ek1Q2TJz" text="波伦" />
+
+		<string id="v9B50R0Q" text="阿赫纳" />
+		<string id="XwtUtYz6" text="阿迪尼亚" />
+		<string id="UHLScdHt" text="阿莱娜" />
+		<string id="1Qy2W6kH" text="阿尔基拉" />
+		<string id="9mD5qydU" text="安德拉莎" />
+		<string id="iNlo2lKS" text="阿里亚达" />
+		<string id="8KzZg0Cv" text="阿斯基塔拉" />
+		<string id="7Hg9dDlm" text="卡蒂拉" />
+		<string id="cWWU3E5C" text="查利亚" />
+		<string id="B6Wk2LnS" text="查拉" />
+		<string id="8v4kD98g" text="科雷纳" />
+		<string id="HCmZZ4KM" text="卡里尼拉" />
+		<string id="E34TFPdo" text="达尼利亚" />
+		<string id="uq39beFh" text="德阿索拉" />
+		<string id="B29UGXkN" text="德贝娜" />
+		<string id="dFgPPqY3" text="多尼莎" />
+		<string id="I8N2q6rM" text="埃卡莱拉" />
+		<string id="F1umxl3h" text="埃莱阿" />
+		<string id="C4j8AtI7" text="埃米娜" />
+		<string id="YmKZUgAt" text="埃西瑞亚" />
+		<string id="Az82gAnA" text="加拉" />
+		<string id="rPiyTE4s" text="甘达丽娜" />
+		<string id="HfwF2jVt" text="吉塞塔" />
+		<string id="cUuAv2BR" text="赫雷娜" />
+		<string id="BQV5wB13" text="赫斯佩迪亚" />
+		<string id="y85SWFwu" text="海拉迪亚" />
+		<string id="pCkFgt4h" text="海斯卡西亚" />
+		<string id="lFG59Afn" text="伊西巴拉" />
+		<string id="JAShMLd1" text="伊莉娜" />
+		<string id="mS9hUu48" text="艾拉" />
+		<string id="GFU5A4G9" text="伊西卡拉" />
+		<string id="bmk2JWen" text="杰斯帕拉" />
+		<string id="G45dfgHp" text="乔兰娜" />
+		<string id="Elij4J9g" text="朱西斯" />
+		<string id="nqLY7ndb" text="贾希斯" />
+		<string id="yLFxvU5y" text="贾提亚" />
+		<string id="DaFp5fAX" text="拉里亚" />
+		<string id="A8A7YEEu" text="拉西利亚" />
+		<string id="RZLQ3ZxQ" text="伦达娜" />
+		<string id="pB7T1QGr" text="莉西卡" />
+		<string id="U3Bz5Y2S" text="马尔提拉" />
+		<string id="wPa3f4Rg" text="马莎" />
+		<string id="mLttFGu8" text="梅维亚" />
+		<string id="5C3psCBP" text="梅尔基亚" />
+		<string id="rWZgFAF5" text="米娜" />
+		<string id="b4WgDNC0" text="米塔拉" />
+		<string id="K3bb0L69" text="神秘莎" />
+		<string id="lM2HfmbL" text="纳德亚" />
+		<string id="Fzzt3jok" text="内尔希亚" />
+		<string id="Mkq9KQdR" text="尼维亚" />
+		<string id="5AKtZ9tZ" text="帕莉西拉" />
+		<string id="7TBExMFs" text="佩内斯特亚" />
+		<string id="NZDZTgh8" text="菲雅" />
+		<string id="LqPBXZ8E" text="费诺里亚" />
+		<string id="XEfFz1td" text="拉米拉" />
+		<string id="C5NEGBod" text="兰达娜" />
+		<string id="8A5lUQH9" text="瑞汉达娜" />
+		<string id="x8UPPfX3" text="雷拉莎" />
+		<string id="UtsyeL21" text="罗伊" />
+		<string id="F8EdoXkF" text="罗莎齐亚" />
+		<string id="OTW3kPyh" text="萨莱亚" />
+		<string id="B5BzI62q" text="西塔西亚" />
+		<string id="ZR5pbqJm" text="索拉" />
+		<string id="CjHOrBZ0" text="苏雷娜" />
+		<string id="S7BWJ63G" text="希尼拉" />
+		<string id="DXhVxUo7" text="塔玛雷亚" />
+		<string id="b3nqE73B" text="特莎" />
+		<string id="IDQYvpxq" text="萨西纳" />
+		<string id="m0B0iMKq" text="塞拉" />
+		<string id="ikBdVp1j" text="提利亚" />
+		<string id="54EGGp4D" text="提西莉亚" />
+		<string id="8hBDivZs" text="泰米达" />
+		<string id="kn6AO0Tw" text="西莱亚" />
+		<string id="HzPfgxCc" text="维曼莎" />
+		<string id="0asK6t4L" text="温德利亚" />
+		<string id="2vHzM83S" text="维利亚" />
+		<string id="RvTZFTaP" text="扎利萨" />
+		<string id="3ms2qc1R" text="泽罗西卡" />
+		<string id="9z74z2Fy" text="齐梅娜" />
+		<string id="A8gbR4OM" text="佐安娜" />
+
+		<string id="v9B50R0Q" text="帕帕多普洛斯" />
+		<string id="U9xK1vLv" text="基里斯托斯" />
+		<string id="X0Dg9h1D" text="菲兰托普诺斯" />
+		<string id="R9kT1A7m" text="狄欧基尼斯" />
+		<string id="Q3w8fP5b" text="阿尔吉罗斯" />
+		<string id="c3NlfY9F" text="斯克莱罗斯" />
+		<string id="VjYQlYbK" text="盖西奥斯" />
+		<string id="w2AuA8SP" text="贾洛斯" />
+		<string id="I0q8L5tZ" text="莱斯塔罗斯" />
+		<string id="kQmR8WjN" text="科斯梅斯" />
+
+		<!--spkingdoms_byzantine文件中的字符-->
+		<string id="ECM_byzantine_name" text="拜占庭帝国" />
+		<string id="ECM_byzantine_short_name" text="拜占庭帝国" />
+		<string id="ECM_byzantine_title" text="拜占庭帝国" />
+		<string id="ECM_byzantine_ruler_title" text="皇帝" />
+		<string id="ECM_byzantine_text" text="东罗马帝国是一个历史上知名的帝国。罗马帝国自东西分治后，帝国东部罗马政权的延续被称为东罗马帝国（相对于帝国西部的西罗马帝国），16世纪以后，开始有学者称之为拜占庭帝国。其国民在其一千多年的存在期内自称为“罗马帝国”（拉丁语：Imperium Romanum；希腊语：Βασιλεία Ρωμαίων）。帝国位于欧洲东部，领土曾包括欧亚非三大洲的亚洲西部和非洲北部，是古代和中世纪欧洲历史上最悠久的君主制国家。" />
+
+		<!--spclans_byzantine文件中的字符-->
+		<string id="byzhrWQWgaM" text="科穆宁"/>
+		<string id="byzUQHUu2bj" text="瓦塔特泽斯"/>
+		<string id="byzh7ujXmDx" text="杜卡斯"/>
+		<string id="byz4Dbwdjbe" text="巴列奥略"/>
+		<string id="byz6OEQJV6k" text="拉斯卡里斯"/>
+		<string id="byzBxCRDt5m" text="巴西利亚科斯"/>
+		<string id="byzDs2vQVwr" text="梅利塞诺斯"/>
+		<string id="byz8Wi66Sp2" text="安格洛斯"/>
+		<string id="byzxbkYPXCt" text="普塞罗斯"/>
+
+		<!--heroes_byzantine文件中的字符-->
+		<string id="bizuX0dbuLa" text="阿莱克修斯一世·科穆宁是现任皇帝。在他的带领之下，拜占庭帝国成功地平息了内战，并通过各种军事行动重新收复小亚细亚领土。"/>
+
+		<!--lords_byzantine文件中的字符-->
+		<string id="byzkadJAjaA" text="阿莱克修斯" />
+		<string id="byzwaQPRCaT" text="阿纳斯塔修斯" />
+		<string id="byzd6aTWH9m" text="勒达" />
+		<string id="byzzaHnL2It" text="腓力" />
+		<string id="byzlGrQRXKt" text="艾琳" />
+		<string id="byzHSlPLC4m" text="约安尼斯" />
+		<string id="byzxViSxONn" text="尼科拉欧斯" />
+		<string id="byzQvfUqzpF" text="尼科莱塔" />
+		<string id="byzysrWE08a" text="锡比拉" />
+		<string id="byzKwNdjleW" text="安娜" />
+		<string id="byzHSlPLC4m" text="约安尼斯" />
+		<string id="byzUTFGUeVQ" text="芝诺" />
+		<string id="byz2fYYfHUI" text="佩特拉" />
+		<string id="byzHGBWqbhQ" text="史蒂芬诺斯" />
+		<string id="byz6YiMWxVM" text="梅丽莎" />
+		<string id="byzkatzUyMI" text="佩特纳斯" />
+		<string id="byzozpbN30B" text="玛利亚" />
+		<string id="byzYDy8meZp" text="埃涅阿斯" />
+		<string id="byzyROMCMB3" text="墨涅拉俄斯" />
+		<string id="byzJFVseSa3" text="米迦勒" />
+		<string id="byzI2gnhOc2" text="波吕尼刻斯" />
+		<string id="byzozpbN30B" text="玛利亚" />
+		<string id="byz5eTb2xr7" text="君士坦丁" />
+		<string id="byzYBGCXSEx" text="约安娜" />
+		<string id="byzP7iNhhPl" text="乔吉斯" />
+		<string id="byzKwNdjleW" text="安娜" />
+		<string id="byzfGp76I0G" text="卡利尼亚" />
+		<string id="byzPQoWbtKo" text="苏内西奥斯" />
+		<string id="byzQGIAbglw" text="伊萨基奥斯" />
+		<string id="byzBosCJ3Rb" text="佩雷吉娅" />
+		<string id="byzmpgkzY0Y" text="凯里亚克" />
+		<string id="byzMBKTyzXQ" text="莱昂蒂亚" />
+		<string id="byzAWDNxFbh" text="瓦伦斯" />
+		<string id="byzAVEDQNvr" text="彭妮洛佩" />
+		<string id="byztRAl9AW2" text="德米特拉" />
+		<string id="byzL2SmutOy" text="厄瑞涅" />
+		<string id="byz26W8jFm9" text="希波吕托" />
+		<string id="byz7DJgows0" text="玛莎" />
+		<string id="byzsZebVgCp" text="查士丁尼" />
+		<string id="byzK2UUjntt" text="阿尔科恩" />
+		<string id="byz9xyXdX4I" text="伊奥赛福" />
+		<string id="byzbujI7g96" text="丽塔" />
+		<string id="byz4YOoGhpK" text="狄奥法诺" />
+		<string id="byzb10NS3yK" text="欧斐米" />
+		<string id="byz4YOld4FR" text="亚莉克希亚" />
+		<string id="byzOymqpgTX" text="康塔斯" />
+		<string id="byzVIs6y29A" text="狄奥尼西亚" />
+		<string id="byzRYksq67N" text="帕纳迪斯" />
+		<string id="byzIbgH3J03" text="诺娜" />
+		<string id="byzQuGKE0wg" text="阿尼蒂帕特拉" />
+		<string id="byztxyVEr0U" text="乔吉" />
+		<string id="byz4WiAzdHf" text="卡特琳娜" />
+		<string id="byzrf8KHRSP" text="狄俄墨得斯" />
+		<string id="byzL2SmutOy" text="厄瑞涅" />
+
+		<!--spnpccharacters_byzantine文件中的字符-->
+		<string id="byz_cte0zSCz" text="拜占庭部落战士" />
+		<string id="byz_Guard" text="守卫" />
+		<string id="byz_XgjXfmM1" text="监狱守卫" />
+		<string id="byz_bNnQt4jN" text="铁匠" />
+		<string id="byz_UaN2lfwi" text="武器匠" />
+		<string id="byz_WH7EGGIg" text="理发师" />
+		<string id="byz_femaleinfant" text="女婴" />
+		<string id="byz_femalechild" text="女孩" />
+		<string id="byz_femaleteenager" text="少女" />
+		<string id="byz_W2WXkiAh" text="赎金经纪人" />
+		<string id="byz_LNNXiPyV" text="帮派头目保镖" />
+		<string id="byz_reoVAtrE" text="公证商人" />
+		<string id="byz_ECxiXTbF" text="公证匠人" />
+		<string id="byz_bLMGbLF8" text="公证传教士" />
+		<string id="byz_AlmaRAib" text="乡间公证人" />
+		<string id="byz_maleinfant" text="男婴" />
+		<string id="byz_malechild" text="男孩" />
+		<string id="byz_maleteenager" text="少年" />
+		<string id="byz_muu5cofb" text="镇民" />
+		<string id="byz_275LD0Gh" text="店员" />
+		<string id="byz_CsjtWt1g" text="酒馆店主" />
+		<string id="byz_twCIejxn" text="赌徒" />
+		<string id="byz_zfCoeglY" text="吟游诗人" />
+		<string id="byz_z6RMWTaA" text="酒馆侍女" />
+		<string id="byz_jx8ohENz" text="盔甲匠" />
+		<string id="byz_79ElOr2x" text="马匹贩子" />
+		<string id="byz_thbcgVVO" text="商贩" />
+		<string id="byz_malebeggar" text="乞丐" />
+		<string id="byz_femalebeggar" text="女乞丐" />
+		<string id="byz_X3KYysuv" text="舞者" />
+		<string id="byz_IHKXNP9H" text="竞技大赛管理员" />
+
+		<string id="JDHJup9m" text="拜占庭征召兵" />
+		<string id="3Fhv3WZC" text="拜占庭步兵" />
+		<string id="XCFZr7P9" text="拜占庭受训步兵" />
+		<string id="UAHECgEd" text="拜占庭军团步兵" />
+		<string id="wq3Mhk16" text="拜占庭军团历战老兵" />
+		<string id="Y8SxUqVz" text="瓦兰吉卫队" />
+		<string id="IykPnUdf" text="瓦兰吉禁卫" />
+		<string id="5GEx6GBS" text="拜占庭射手" />
+		<string id="esCB5wPD" text="拜占庭受训射手" />
+		<string id="FZGbtWzB" text="拜占庭历战射手" />
+		<string id="IP8Dt2v8" text="拜占庭禁卫射手" />
+		<string id="Rf6Qtr0p" text="拜占庭侦察兵" />
+		<string id="U68fgPlD" text="拜占庭骑射手" />
+		<string id="dc6eyn1A" text="拜占庭禁卫骑射手" />
+		<string id="eufhLcW2" text="拜占庭禁卫新兵" />
+		<string id="sn3HPFGJ" text="拜占庭骑兵" />
+		<string id="ziaAFivK" text="拜占庭具装骑兵" />
+		<string id="sHDQ4wzV" text="拜占庭精英具装骑兵" />
+		<string id="GBoaO85z" text="拜占庭皇家具装骑兵" />
+		<string id="byz_P8EATvn8" text="拜占庭民兵射手" />
+		<string id="byz_HsboF2mR" text="拜占庭历战民兵射手" />
+		<string id="byz_ZhKoCVby" text="拜占庭持矛民兵" />
+		<string id="byz_c5rVdg75" text="拜占庭历战持矛民兵" />
+
+		<string id="byz_TpECDErA" text="拜占庭商队头领" />
+		<string id="byz_LEJukldW" text="拜占庭武装商贩" />
+		<string id="byz_TbBnWiao" text="拜占庭商队护卫" />
+		<string id="byz_bLq2HXMo" text="拜占庭历战商队护卫" />
+		
+		<!--spnpccharacterstemplates_byzantine文件中字符-->
+		<string id="byz_byzantinepeasantman" text="拜占庭农民" />
+		<string id="byz_WbH2HS8j" text="市民" />
+		
+	</strings>
+</base>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+		<!--module_strings_rus文件中的字符-->
+		<string id="rusfather.rus" text="埃里克"/>
+		<string id="rusmother" text="芙蕾雅"/>
+		<string id="rusdescription" text="罗斯人又称瓦良格人，是指公元8世纪至10世纪出现在东欧平原上的诺斯人，“瓦良格”是乌克兰、俄罗斯和白俄罗斯的居民对他们的称呼。他们是古老的维京人（即诺斯人，日耳曼民族北支）的一支，原来居住在北欧的斯堪的纳维亚半岛，后逐渐沿着商路来到东欧平原，活跃在当地的商路上。他们从事着强盗和商人的双重工作，也经常抢劫财物，掳掠人口为奴，运到君士坦丁堡出售。他们还受雇于当地东斯拉夫人的王公，充当亲兵，从事征战。根据俄罗斯最早历史书《往年纪事》的记载，罗斯人从海上来到，他们在首领留里克的领导下建立起留里克王朝，到奥列格（留里克的姐夫或妹夫）时攻下基辅并统一了罗斯各部落，即基辅罗斯，是日后俄罗斯的基础，俄罗斯（Russia）、白俄罗斯（Belarus）即起源于Rus(罗斯)一词。罗斯人后逐渐与斯拉夫人和钦察人融合为俄罗斯人。"/>
+		<string id="rusrulertitle" text="{RULER.NAME} {?RULER.GENDER}女大公{?}大公{\?}"/>
+		<string id="rusnobletitle" text="{RULER.NAME} {?RULER.GENDER}女领主{?}领主{\?}"/>
+		<string id="rusofficial" text="领主"/>
+		<string id="goldenhorderulerf" text="女领主"/>
+		<string id="rusruler" text="大公"/>
+		<string id="rusrulerf" text="女大公"/>
+		<string id="rusrulerterm" text="{RULER.NAME} {?RULER.GENDER}女大公{?}大公{\?}"/>
+		<string id="rusfactionadjective" text="基辅罗斯"/>
+		<string id="rusfactionshortterm" text="基辅罗斯"/>
+		<string id="rusfactionformalname" text="基辅罗斯"/>
+		<string id="rusfactioninformalname" text="基辅罗斯"/>
+		<string id="ruscultureneutralterm" text="基辅罗斯"/>
+		<string id="rusmembers" text="罗斯"/>
+
+		<!--spcultures_rus文件中的字符-->
+		<string id="rus" text="基辅罗斯" />
+		<string id="slavic_text" text="罗斯(Rus)是古代巴尔特人、芬兰乌戈人和东斯拉夫人的土地上的国名。俄罗斯（Russia）、白罗斯（Belarus）即起源于Rus(罗斯)一词。罗斯人，原为瓦良格民族一分支。 9世纪中叶，斯堪的纳维亚半岛（今挪威，瑞典所在地）上的瓦良格人（诺曼人）留里克大公来到诺夫格勒得。因这一支瓦良格人又称“罗斯”人，因此他们统治的地区又被称作“罗斯之地”。公元882年，留里克的继任者奥列格大公攻占基辅，并打算将基辅城变为“罗斯人所统治的各城市之母”，便以基辅为首都，建立了新的国家——基辅罗斯。" />
+
+		<string id="DB3D0DCF" text="弗拉基米尔" />
+		<string id="A766A261" text="伊万" />
+		<string id="826B6BF8" text="亚历山大" />
+		<string id="923B0EDF" text="鲍里斯" />
+		<string id="4C396ED9" text="米罗斯拉夫" />
+		<string id="15CE6538" text="拉多斯拉夫" />
+		<string id="43CD1B5E" text="雅罗斯拉夫" />
+		<string id="0223B28F" text="奥列格" />
+		<string id="5884EB42" text="斯维亚托斯拉夫" />
+		<string id="610FB160" text="德米特里" />
+		<string id="D5523D39" text="亚罗米尔" />
+		<string id="7C29128F" text="波格丹" />
+		<string id="98B4F28B" text="博莱斯拉夫" />
+		<string id="48B813E2" text="斯坦尼斯拉夫" />
+		<string id="F353055B" text="拉多万" />
+		<string id="D927C27A" text="柳代维特" />
+		<string id="318F123E" text="兹拉坦" />
+		<string id="FEBD90D1" text="莱希" />
+		<string id="892D2177" text="兹比格涅夫" />
+		<string id="1B822307" text="瓦迪斯瓦夫" />
+		<string id="0F4530EC" text="雅罗斯拉夫" />
+		<string id="7D907479" text="博扬" />
+		<string id="E0B73E37" text="罗斯季斯拉夫" />
+		<string id="18AEBC2F" text="瓦茨拉夫" />
+		<string id="304CDDA7" text="雅罗斯瓦夫" />
+		<string id="5366B3F5" text="拉斯洛" />
+		<string id="25F09B1F" text="卡济米尔" />
+		<string id="0809246A" text="梅什科" />
+		<string id="9223AB22" text="普热梅斯瓦夫" />
+		<string id="1A62DD1F" text="斯万内维克" />
+		<string id="645EB07E" text="弗拉斯季米尔" />
+		<string id="C6A7795A" text="兹沃尼米尔" />
+		<string id="8A929AD4" text="博日达尔" />
+		<string id="677897F4" text="韦利米尔" />
+		<string id="9FCAE144" text="德拉戈米尔" />
+		<string id="1636691E" text="拉蒂米尔" />
+		<string id="58429BEC" text="博戈米尔" />
+		<string id="9430B664" text="多布罗米尔" />
+		
+		<string id="ED82AE8D" text="奥莉加" />
+		<string id="23A7B082" text="斯韦特兰娜" />
+		<string id="5631A6F3" text="阿纳斯塔夏德" />
+		<string id="4C4669FC" text="雅罗斯拉娃" />
+		<string id="71268F42" text="卢德米拉" />
+		<string id="56ABE173" text="弗拉斯塔" />
+		<string id="387BE217" text="米连娜" />
+		<string id="560FB7F1" text="罗克萨娜" />
+		<string id="CB9DFEAB" text="德拉加娜" />
+		<string id="B30DD3F5" text="佐拉" />
+		<string id="8E66048D" text="兹登卡" />
+		<string id="5FB71049" text="博任娜" />
+		<string id="CC4CF91A" text="薇拉" />
+		<string id="047EE0A9" text="雅德维加" />
+		<string id="A7C99A32" text="阿格尼耶斯卡" />
+		<string id="6D78EC8D" text="博日察" />
+		<string id="A22D8393" text="拉多斯拉娃" />
+		<string id="5505E963" text="米罗斯拉娃" />
+		<string id="667C8C6D" text="多布罗米拉" />
+		<string id="C53F3120" text="瓦西里萨" />
+		<string id="F4037B0D" text="兹拉塔" />
+		<string id="1064DF89" text="玛丽安娜" />
+		<string id="6A217B8C" text="韦斯娜" />
+		<string id="3A8A78A0" text="苏珊娜" />
+		<string id="D009F4E6" text="玛格达莱娜" />
+		<string id="47FA576D" text="布拉尼斯拉娃" />
+		<string id="677AA683" text="拉德米拉" />
+		<string id="6C8871D3" text="娜杰日达" />
+		<string id="B2BC2FAC" text="达妮察" />
+		<string id="84912D33" text="海伦娜" />
+		<string id="0301643B" text="伊沃娜" />
+		<string id="88E94BDC" text="柳蒂察" />
+		<string id="769C13D3" text="斯拉芙卡" />
+		<string id="0FD038D1" text="薇拉" />
+		<string id="FCC429D4" text="罗扎利娅" />
+		<string id="2646316C" text="斯坦尼斯拉娃" />
+		<string id="99184349" text="卡塔日娜" />
+		<string id="633C13CF" text="达里娜" />
+		
+		<string id="3ADDCF09" text="鲁科维奇" />
+		<string id="E84875C7" text="皮亚斯特" />
+		<string id="35C15555" text="普热米斯尔" />
+		<string id="73BB146A" text="德拉戈耶维奇" />
+		<string id="A635F9FE" text="拉齐维尔" />
+		<string id="79804209" text="基芬" />
+		<string id="6E99A4FF" text="戈斯托姆斯基" />
+		<string id="2615E960" text="雅盖隆" />
+		<string id="0BAED216" text="沃伊诺维奇" />
+		<string id="5DF45E13" text="多蒙东" />
+		
+		<!--spkingdoms_rus文件中的字符-->
+		<string id="rus_kingdom_name" text="基辅罗斯公国" />
+		<string id="rus_kingdom_short_name" text="基辅罗斯" />
+		<string id="rus_kingdom_title" text="基辅罗斯公国" />
+		<string id="rus_ruler_title" text="大公" />
+		<string id="rus_kingdom_text" text="罗斯(Rus)是古代巴尔特人、芬兰乌戈人和东斯拉夫人的土地上的国名。俄罗斯（Russia）、白罗斯（Belarus）即起源于Rus(罗斯)一词。罗斯人，原为瓦良格民族一分支。 9世纪中叶，斯堪的纳维亚半岛（今挪威，瑞典所在地）上的瓦良格人（诺曼人）留里克大公来到诺夫格勒得。因这一支瓦良格人又称“罗斯”人，因此他们统治的地区又被称作“罗斯之地”。公元882年，留里克的继任者奥列格大公攻占基辅，并打算将基辅城变为“罗斯人所统治的各城市之母”，便以基辅为首都，建立了新的国家——基辅罗斯。" />
+
+		<!--spclans_rus文件中的字符-->
+		<string id="Rurik" text="留里克" />
+		<string id="Monomakh" text="莫诺马赫" />
+		<string id="Davyd" text="达维德" />
+		<string id="Iaroslav" text="雅罗斯拉夫" />
+		<string id="Oleg" text="奥列格" />
+		<string id="Sviatoslav" text="斯维亚托斯拉夫" />
+		<string id="Mstislav" text="姆斯基斯拉夫" />
+
+		<!--heroes_rus文件中的字符-->
+		<!--<string id="ECM_lord_goldenhorde_6_1_text" text="" />-->
+
+		<!--lords_rus文件中的字符-->
+		<string id="Sviatopolk II" text="斯维亚托波尔克二世" />
+		<string id="Olena" text="叶莲娜" />
+		<string id="Iaroslav" text="雅罗斯拉夫" />
+		<string id="Zbyslava" text="兹比斯拉瓦" />
+		<string id="Volodar" text="沃洛达里" />
+		<string id="Daryna" text="达莲娜" />
+		<string id="Vladimir II" text="弗拉基米尔二世" />
+		<string id="Gytha of Wessex" text="威塞克斯的吉莎" />
+		<string id="Mstislav I" text="姆斯基斯拉夫一世" />
+		<string id="Izyaslav" text="伊贾斯拉夫" />
+		<string id="Svyatoslav" text="斯维亚托斯拉夫" />
+		<string id="Marina" text="玛丽娜" />
+		<string id="Yaropolk II" text="亚罗波尔克二世" />
+		<string id="Helena" text="海伦娜" />
+		<string id="Viacheslav" text="维亚切斯拉夫" />
+		<string id="Davyd Sviatoslavich" text="达维德·斯维亚托斯拉维奇" />
+		<string id="Helena" text="海伦娜" />
+		<string id="Svetoslav" text="斯韦托斯拉夫" />
+		<string id="Sviatopolkovich" text="斯维亚托波尔科维奇" />
+		<string id="Arpada" text="阿帕德" />
+		<string id="Oleg Svyatoslavich" text="奥列格·斯维亚托斯拉维奇" />
+		<string id="Maria Yuryevna" text="玛丽亚·尤里耶芙娜" />
+		<string id="Vsevolod II" text="弗谢沃洛德二世" />
+		<string id="Maria" text="玛丽亚" />
+		<string id="Igor II" text="伊戈尔二世" />
+		<string id="Sviatoslav II" text="斯维亚托斯拉夫二世" />
+		<string id="Mstislav I" text="姆斯基斯拉夫一世" />
+		<string id="Christina Ingesdotter" text="克里斯蒂娜·英格斯多塔" />
+		<string id="Iziaslav" text="伊贾斯拉夫" />
+		<string id="Malmfred" text="马姆弗雷德" />
+		
+		<!--spnpccharacters_rus文件中的字符-->
+		<string id="rus_guard" text="守卫" />
+		<string id="XgjXfmM1" text="监狱守卫" />
+		<string id="bNnQt4jN" text="铁匠" />
+		<string id="UaN2lfwi" text="武器匠" />
+		<string id="WH7EGGIg" text="理发师" />
+		<string id="femaleinfant" text="女婴" />
+		<string id="femalechild" text="女孩" />
+		<string id="femaleteenager" text="少女" />
+		<string id="W2WXkiAh" text="赎金经纪人" />
+		<string id="LNNXiPyV" text="帮派头目保镖" />
+		<string id="reoVAtrE" text="公证商人" />
+		<string id="ECxiXTbF" text="公证匠人" />
+		<string id="bLMGbLF8" text="公证传教士" />
+		<string id="AlmaRAib" text="乡间公证人" />
+		<string id="maleinfant" text="男婴" />
+		<string id="malechild" text="男孩" />
+		<string id="maleteenager" text="少年" />
+		<string id="muu5cofb" text="镇民" />
+		<string id="275LD0Gh" text="店员" />
+		<string id="CsjtWt1g" text="酒馆店主" />
+		<string id="twCIejxn" text="赌徒" />
+		<string id="zfCoeglY" text="吟游诗人" />
+		<string id="z6RMWTaA" text="酒馆侍女" />
+		<string id="jx8ohENz" text="盔甲匠" />
+		<string id="79ElOr2x" text="马匹贩子" />
+		<string id="thbcgVVO" text="商贩" />
+		<string id="malebeggar" text="乞丐" />
+		<string id="femalebeggar" text="女乞丐" />
+		<string id="X3KYysuv" text="舞者" />
+		<string id="IHKXNP9H" text="竞技大赛管理员" />
+
+		<string id="ECM_caravan_master_rus" text="罗斯商队头领" />
+		<string id="ECM_caravan_guard_rus" text="罗斯商队护卫" />
+		<string id="ECM_veteran_caravan_guard_rus" text="罗斯历战商队护卫" />
+		<string id="ECM_armed_trader_rus" text="罗斯武装商贩" />
+
+		<string id="E11NOt01" text="罗斯农民" />
+		<string id="rAk2LTMZ" text="罗斯新兵" />
+		<string id="CRqc89XH" text="罗斯长矛勇士" />
+		<string id="SUVZlpgY" text="罗斯历战长矛勇士" />
+		<string id="IRft9UHg" text="罗斯军团长矛兵" />
+		<string id="SBNEXJ3Z" text="罗斯军团历战长矛兵" />
+		<string id="QyMj4Sip" text="罗斯持斧勇士" />
+		<string id="DXRAomU3" text="罗斯军团斧兵" />
+		<string id="vmRe81xG" text="罗斯军团历战斧兵" />
+		<string id="pMfu5G4j" text="罗斯弓箭手" />
+		<string id="0i8l1WN3" text="罗斯历战弓箭手" />
+		<string id="dskM2eeO" text="罗斯军团弓箭手" />
+		<string id="GEtWEjYt" text="罗斯军团历战弓箭手" />
+		<string id="5WtxZlhz" text="罗斯轻骑兵" />
+		<string id="bYS4TlYg" text="罗斯武装骑兵" />
+		<string id="XhKLxUsk" text="罗斯具装骑兵" />
+		<string id="B1Trh4KX" text="罗斯亲卫新兵" />
+		<string id="I59DpvtG" text="罗斯亲卫步兵" />
+		<string id="O0ON5aMC" text="罗斯亲卫骑兵" />
+		<string id="0DTjLPGA" text="罗斯历战亲卫骑兵" />
+		<string id="LPSDNSKL" text="罗斯大公骑士" />
+
+		<!--spnpccharactertemplates_rus文件中字符-->
+		<string id="E11NOn01man" text="罗斯农民" />
+		<string id="E11NOn02" text="罗斯镇民" />
+
+	</strings>
+</base>

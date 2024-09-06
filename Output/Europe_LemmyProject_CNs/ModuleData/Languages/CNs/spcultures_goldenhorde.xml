@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+		<!--module_strings_goldenhorde文件中的字符-->
+		<string id="goldenhordefather" text="班丹"/>
+		<string id="goldenhordemother" text="特尔特"/>
+		<string id="goldenhordedescription" text="1225年，成吉思汗划分了四个儿子的封地。长子术赤的封地在额尔齐斯河以西、花剌子模以北（包括额尔齐斯河流域和阿尔泰山地区），术赤的斡尔朵（行宫）设在额尔齐斯河流域。术赤次子拔都统率“长子军”西征，建立了地跨欧亚的金帐汗国。其居民主要是以操突厥语的奇卜察克人（钦察）和保加尔人为主体。金帐汗国早期的首府为布尔加尔城(前布尔加尔人的故都)。之后金帐汗国在伏尔加河口处建立了新首都萨莱(Saray，来自波斯语，意为“宫殿”)。罗斯诸公国是纳贡的附庸国。"/>
+		<string id="goldenhorderulertitle" text="{RULER.NAME} {?RULER.GENDER}可汗{?}可汗{\?}"/>
+		<string id="goldenhordenobletitle" text="{RULER.NAME} {?RULER.GENDER}贝古姆{?}贝古姆{\?}"/>
+		<string id="goldenhorderuler" text="可汗"/>
+		<string id="goldenhorderulerf" text="可汗"/>
+		<string id="goldenhorderulerterm" text="{RULER.NAME} {?RULER.GENDER}可汗{?}可汗{\?}"/>
+		<string id="goldenhordefactionadjective" text="金帐汗国"/>
+		<string id="goldenhordefactionshortterm" text="金帐汗国"/>
+		<string id="goldenhordefactionformalname" text="金帐汗国可汗"/>
+		<string id="goldenhordefactioninformalname" text="金帐汗国"/>
+		<string id="goldenhordecultureadjective" text="金帐汗国"/>
+		<string id="goldenhordecultureneutralterm" text="金帐汗国"/>
+		<string id="goldenhordemembers" text="金帐汗国"/>
+
+		<!--spcultures_goldenhorde文件中的字符-->
+		<string id="NhijjZdk" text="金帐汗国"/>
+		<string id="horde_spcul_text" text="1225年，成吉思汗划分了四个儿子的封地。长子术赤的封地在额尔齐斯河以西、花剌子模以北（包括额尔齐斯河流域和阿尔泰山地区），术赤的斡尔朵（行宫）设在额尔齐斯河流域。术赤次子拔都统率“长子军”西征，建立了地跨欧亚的金帐汗国。其居民主要是以操突厥语的奇卜察克人（钦察）和保加尔人为主体。金帐汗国早期的首府为布尔加尔城(前布尔加尔人的故都)。之后金帐汗国在伏尔加河口处建立了新首都萨莱(Saray，来自波斯语，意为“宫殿”)。罗斯诸公国是纳贡的附庸国。"/>
+
+		<!--spkingdoms_goldenhorde文件中的字符-->
+		<string id="ECM_mongol_name" text="金帐汗国"/>
+		<string id="ECM_mongol_short_name" text="金帐汗国"/>
+		<string id="ECM_mongol_title" text="金帐汗国"/>
+		<string id="ECM_mongol_ruler_title" text="可汗"/>
+		<string id="ECM_mongol_text" text="1225年，成吉思汗划分了四个儿子的封地。长子术赤的封地在额尔齐斯河以西、花剌子模以北（包括额尔齐斯河流域和阿尔泰山地区），术赤的斡尔朵（行宫）设在额尔齐斯河流域。术赤次子拔都统率“长子军”西征，建立了地跨欧亚的金帐汗国。其居民主要是以操突厥语的奇卜察克人（钦察）和保加尔人为主体。金帐汗国早期的首府为布尔加尔城(前布尔加尔人的故都)。之后金帐汗国在伏尔加河口处建立了新首都萨莱(Saray，来自波斯语，意为“宫殿”)。罗斯诸公国是纳贡的附庸国。"/>
+
+		<!--spclans_goldenhorde文件中的字符-->
+		<string id="ECM_clan_goldenhorde_1" text="孛儿只斤氏" />
+		<string id="ECM_clan_goldenhorde_2" text="米尔罕" />
+		<string id="ECM_clan_goldenhorde_3" text="阿拉科柳克" />
+		<string id="ECM_clan_goldenhorde_4" text="吉尔吉斯" />
+		<string id="ECM_clan_goldenhorde_5" text="金儿斤" />
+		<string id="ECM_clan_goldenhorde_6" text="库塔格" />
+		<string id="ECM_clan_goldenhorde_7" text="巴拉克·乌尔图" />
+		<string id="ECM_clan_goldenhorde_8" text="奥兰吉德" />
+		<string id="ECM_clan_goldenhorde_9" text="蒙赫巴特" />
+
+		<!--heroes_goldenhorde文件中的字符-->
+		<string id="ECM_lord_goldenhorde_6_1_text" text="" />
+
+		<!--lords_goldenhorde文件中的字符-->
+		<string id="ECM_lord_goldenhorde_6_1" text="拔都" />
+		<string id="ECM_lord_goldenhorde_6_2" text="喀答干" />
+		<string id="ECM_lord_goldenhorde_6_7" text="萨塔克" />
+		<string id="ECM_lord_goldenhorde_6_10" text="霍格伦" />
+		<string id="ECM_lord_goldenhorde_6_101" text="察合台" />
+		<string id="ECM_lord_goldenhorde_6_13" text="阿波尔图" />
+		<string id="ECM_lord_goldenhorde_6_3" text="吐屯" />
+		<string id="ECM_lord_goldenhorde_6_4" text="乌拉奇" />
+		<string id="ECM_lord_goldenhorde_6_8" text="蒙格里格" />
+		<string id="ECM_lord_goldenhorde_6_81" text="苏伊克图" />
+		<string id="ECM_lord_goldenhorde_6_9" text="托可坎" />
+		<string id="ECM_lord_goldenhorde_6_11" text="窦克兹" />
+		<string id="ECM_lord_goldenhorde_6_5" text="别儿哥" />
+		<string id="ECM_lord_goldenhorde_6_51" text="忙哥" />
+		<string id="ECM_lord_goldenhorde_6_12" text="霍伦" />
+		<string id="ECM_lord_goldenhorde_6_15" text="古尤格" />
+		<string id="ECM_lord_goldenhorde_6_15_1" text="霍里金" />
+		<string id="ECM_lord_goldenhorde_6_15_2" text="阿尔塔" />
+		<string id="ECM_lord_goldenhorde_6_6" text="赤老温" />
+		<string id="ECM_lord_goldenhorde_6_16" text="胡鲁纳格" />
+		<string id="ECM_lord_goldenhorde_6_16_1" text="霍加格钦" />
+		<string id="ECM_lord_goldenhorde_6_16_2" text="特穆伦" />
+		<string id="ECM_lord_goldenhorde_6_24" text="布鲁汗" />
+		<string id="ECM_lord_goldenhorde_6_17" text="胡孙" />
+		<string id="ECM_lord_goldenhorde_6_17_1" text="察古尔" />
+		<string id="ECM_lord_goldenhorde_6_17_2" text="可卡钦" />
+		<string id="ECM_lord_goldenhorde_6_21" text="巴代" />
+		<string id="ECM_lord_goldenhorde_6_21_1" text="阿尔巴德" />
+		<string id="ECM_lord_goldenhorde_6_18" text="合丹" />
+		<string id="ECM_lord_goldenhorde_6_18_1" text="波尔特" />
+		<string id="ECM_lord_goldenhorde_6_18_2" text="满都海" />
+		<string id="ECM_lord_goldenhorde_6_22" text="赤古" />
+		<string id="ECM_lord_goldenhorde_6_22_1" text="胡鲁可汗" />
+		<string id="ECM_lord_goldenhorde_6_19" text="蒙古金" />
+		<string id="ECM_lord_goldenhorde_6_19_1" text="奥琴那" />
+		<string id="ECM_lord_goldenhorde_6_19_2" text="察必" />
+		<string id="ECM_lord_goldenhorde_6_23" text="脱斡邻勒" />
+		<string id="ECM_lord_goldenhorde_6_20" text="坎纳克" />
+		<string id="ECM_lord_goldenhorde_6_20_1" text="忽图伦" />
+		<string id="ECM_lord_goldenhorde_k8_u" text="可里拉泰" />
+		<string id="ECM_lord_goldenhorde_K9_l" text="拖雷" />
+		<string id="ECM_lord_goldenhorde_K9_s" text="也遂" />
+		<string id="ECM_lord_goldenhorde_K9_c1" text="波尔图" />
+		<string id="ECM_lord_goldenhorde_K9_c2" text="忽兰" />
+		
+		<!--spnpccharacters_goldenhorde文件中的字符-->
+		<string id="horde_guard" text="守卫" />
+		<string id="XgjXfmM1" text="监狱守卫" />
+		<string id="bNnQt4jN" text="铁匠" />
+		<string id="UaN2lfwi" text="武器匠" />
+		<string id="WH7EGGIg" text="理发师" />
+		<string id="femaleinfant" text="女婴" />
+		<string id="femalechild" text="女孩" />
+		<string id="femaleteenager" text="少女" />
+		<string id="W2WXkiAh" text="赎金经纪人" />
+		<string id="LNNXiPyV" text="帮派头目保镖" />
+		<string id="reoVAtrE" text="公证商人" />
+		<string id="ECxiXTbF" text="公证匠人" />
+		<string id="bLMGbLF8" text="公证传教士" />
+		<string id="AlmaRAib" text="乡间公证人" />
+		<string id="maleinfant" text="男婴" />
+		<string id="malechild" text="男孩" />
+		<string id="maleteenager" text="少年" />
+		<string id="muu5cofb" text="镇民" />
+		<string id="275LD0Gh" text="店员" />
+		<string id="CsjtWt1g" text="酒馆店主" />
+		<string id="twCIejxn" text="赌徒" />
+		<string id="zfCoeglY" text="吟游诗人" />
+		<string id="z6RMWTaA" text="酒馆侍女" />
+		<string id="jx8ohENz" text="盔甲匠" />
+		<string id="79ElOr2x" text="马匹贩子" />
+		<string id="kPCcelVX" text="商贩" />
+		<string id="malebeggar" text="乞丐" />
+		<string id="femalebeggar" text="女乞丐" />
+		<string id="X3KYysuv" text="舞者" />
+		<string id="IHKXNP9H" text="竞技大赛管理员" />
+
+		<string id="ECM_caravan_master_goldenhorde" text="金帐汗国商队头领" />
+		<string id="ECM_caravan_guard_goldenhorde" text="金帐汗国商队护卫" />
+		<string id="ECM_veteran_caravan_guard_goldenhorde" text="金帐汗国历战商队护卫" />
+		<string id="ECM_armed_trader_goldenhorde" text="金帐汗国武装商贩" />
+		<string id="ECM_caravan_master_goldenhorde" text="金帐汗国商队头领" />
+
+		<string id="ECM_goldenhorde_nomad" text="金帐汗国牧民" />
+		<string id="ECM_goldenhorde_footman" text="金帐汗国征召兵" />
+		<string id="ECM_goldenhorde_tribal_warrior" text="金帐汗国部落勇士" />
+		<string id="ECM_goldenhorde_noble_son" text="金帐汗国贵族之子" />
+		<string id="ECM_goldenhorde_hunter" text="金帐汗国射手" />
+		<string id="ECM_goldenhorde_spearman" text="金帐汗国步卒" />
+		<string id="ECM_goldenhorde_raider" text="金帐汗国侦察兵" />
+		<string id="ECM_goldenhorde_horseman" text="金帐汗国骑兵" />
+		<string id="ECM_goldenhorde_qanqli" text="金帐汗国康曷利" />
+		<string id="ECM_goldenhorde_archer" text="金帐汗国卫士" />
+		<string id="ECM_goldenhorde_spear_infantry" text="金帐汗国达尔罕" />
+		<string id="ECM_goldenhorde_horse_archer" text="金帐汗国掠袭者" />
+		<string id="ECM_goldenhorde_lancer" text="金帐汗国枪骑兵" />
+		<string id="ECM_goldenhorde_torguud" text="金帐汗国土尔扈特" />
+		<string id="ECM_goldenhorde_marksman" text="金帐汗国可敦卫士" />
+		<string id="ECM_goldenhorde_darkhan" text="金帐汗国骑马达尔罕" />
+		<string id="ECM_goldenhorde_heavy_horse_archer" text="金帐汗国重装骑射手" />
+		<string id="ECM_goldenhorde_heavy_lancer" text="金帐汗国库曼骑手" />
+		<string id="ECM_goldenhorde_kheshig" text="金帐汗国怯薛" />
+		<string id="ECM_goldenhorde_khans_guard" text="金帐汗国可汗卫士" />
+		
+		<string id="ECM_goldenhorde_militia_archer" text="金帐汗国民兵射手" />
+		<string id="ECM_goldenhorde_militia_veteran_archer" text="金帐汗国历战民兵射手" />
+		<string id="ECM_goldenhorde_militia_spearman" text="金帐汗国持矛民兵" />
+		<string id="ECM_goldenhorde_militia_veteran_spearman" text="金帐汗国历战持矛民兵" />
+
+		<!--spnpccharactertemplates_goldenhorde文件中字符-->
+		<string id="goldenhordepeasantman" text="金帐汗国牧民" />
+		<string id="V8GrFH4B" text="金帐汗国女镇民" />
+
+	</strings>
+</base>

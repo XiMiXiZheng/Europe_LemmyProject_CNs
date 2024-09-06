@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+        <string id="ayyubidfaction" text="阿尤布"/>
+        <string id="ayua2AjI8nc" text="阿尤布王朝（Ayyubid dynasty），是12世纪－13世纪统治埃及、叙利亚、也门的伊斯兰教王国。该王朝由库尔德人建立，全盛时期的版图延伸至圣城麦加与北伊拉克。由阿尤布、谢尔库赫兄弟带领的阿尤布家族原先是赞吉王朝的士兵，后来在阿尤布之子、埃及民族英雄萨拉丁带领下获得了独立地位。"/>
+
+        <string id="byzantinefaction" text="拜占庭"/>
+        <string id="byzX0kKBzsW" text="东罗马帝国是一个历史上知名的帝国。罗马帝国自东西分治后，帝国东部罗马政权的延续被称为东罗马帝国（相对于帝国西部的西罗马帝国），16世纪以后，开始有学者称之为拜占庭帝国。其国民在其一千多年的存在期内自称为“罗马帝国”（拉丁语：Imperium Romanum；希腊语：Βασιλεία Ρωμαίων）。帝国位于欧洲东部，领土曾包括欧亚非三大洲的亚洲西部和非洲北部，是古代和中世纪欧洲历史上最悠久的君主制国家。"/>
+        
+        <string id="sZLd6VHi" text="金帐汗国事故发生的分公司"/>
+        <string id="horde_spcul_text" text="1225年，成吉思汗划分了四个儿子的封地。长子术赤的封地在额尔齐斯河以西、花剌子模以北（包括额尔齐斯河流域和阿尔泰山地区），术赤的斡尔朵（行宫）设在额尔齐斯河流域。术赤次子拔都统率“长子军”西征，建立了地跨欧亚的金帐汗国。其居民主要是以操突厥语的奇卜察克人（钦察）和保加尔人为主体。金帐汗国早期的首府为布尔加尔城(前布尔加尔人的故都)。之后金帐汗国在伏尔加河口处建立了新首都萨莱(Saray，来自波斯语，意为“宫殿”)。罗斯诸公国是纳贡的附庸国。"/>
+        
+<!--        <string id="E11TUPE_spcul_name" text=""/>-->
+<!--        <string id="E11TUPE_spcul_text" text=""/>-->
+<!--        -->
+<!--        <string id="rus" text=""/>-->
+<!--        <string id="slavic_text" text=""/>-->
+        
+        <string id="sami" text="萨米"/>
+        <string id="Sami_text" text="萨米人,也称拉普人，是北欧地区的原住民，欧洲最大的原住民族群之一，也是欧洲目前仅存的游牧民族。萨米人的语言是萨米语，属于芬兰-乌戈尔语族。萨米人的开垦地区常被简称为“拉普兰”，但萨米人的开垦区远广于瑞典历史上的拉普兰。他们把自己所开垦的区域称为萨米（Sápmi），横跨芬兰、挪威、瑞典、俄罗斯四国国境，包括瑞典两万人、挪威北部四万人、芬兰六千五百人和俄罗斯科拉半岛的部分地区两千人。瑞典境内萨米人的居住区是世界文化与自然双重遗产。"/>
+    </strings>
+</base>

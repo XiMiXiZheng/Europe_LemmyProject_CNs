@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+    <strings>
+		<!--module_strings_sami文件中的字符-->
+		<string id="samifather" text="埃里克"/>
+		<string id="samimother" text="芙蕾雅"/>
+		<string id="samidescription" text="萨米人,也称拉普人，是北欧地区的原住民，欧洲最大的原住民族群之一，也是欧洲目前仅存的游牧民族。萨米人的语言是萨米语，属于芬兰-乌戈尔语族。萨米人的开垦地区常被简称为“拉普兰”，但萨米人的开垦区远广于瑞典历史上的拉普兰。他们把自己所开垦的区域称为萨米，横跨芬兰、挪威、瑞典、俄罗斯四国国境，包括瑞典两万人、挪威北部四万人、芬兰六千五百人和俄罗斯科拉半岛的部分地区两千人。瑞典境内萨米人的居住区是世界文化与自然双重遗产。"/>
+		<string id="samirulertitle" text="{RULER.NAME} {?RULER.GENDER}至高酋长{?}至高酋长{\?}"/>
+		<string id="saminobletitle" text="{RULER.NAME} {?RULER.GENDER}酋长{?}酋长{\?}"/>
+		<string id="samiofficial" text="酋长"/>
+		<string id="samiofficialf" text="酋长"/>
+		<string id="samiruler" text="酋长"/>
+		<string id="samirulerf" text="酋长"/>
+		<string id="samirulerterm" text="{RULER.NAME} {?RULER.GENDER}至高酋长{?}至高酋长{\?}"/>
+		<string id="samifactionadjective" text="萨米"/>
+		<string id="samifactionshortterm" text="萨米"/>
+		<string id="samifactionformalname" text="萨米"/>
+		<string id="samifactioninformalname" text="萨米"/>
+		<string id="samicultureadjective" text="萨米"/>
+		<string id="samicultureneutralterm" text="萨米"/>
+		<string id="samimembers" text="萨米"/>
+
+		<!--spcultures_sami文件中的字符-->
+		<string id="sami" text="萨米"/>
+		<string id="Sami_text" text="萨米人,也称拉普人，是北欧地区的原住民，欧洲最大的原住民族群之一，也是欧洲目前仅存的游牧民族。萨米人的语言是萨米语，属于芬兰-乌戈尔语族。萨米人的开垦地区常被简称为“拉普兰”，但萨米人的开垦区远广于瑞典历史上的拉普兰。他们把自己所开垦的区域称为萨米（Sápmi），横跨芬兰、挪威、瑞典、俄罗斯四国国境，包括瑞典两万人、挪威北部四万人、芬兰六千五百人和俄罗斯科拉半岛的部分地区两千人。瑞典境内萨米人的居住区是世界文化与自然双重遗产。"/>
+
+		<string id="sami_DB3D0DCF" text="海格" />
+		<string id="sami_A766A261" text="加拉尔" />
+		<string id="sami_826B6BF8" text="萨莫尔" />
+		<string id="sami_923B0EDF" text="海布木" />
+		<string id="sami_4C396ED9" text="阿伦" />
+		<string id="sami_15CE6538" text="波阿拉" />
+		<string id="sami_43CD1B5E" text="米戈什" />
+		<string id="sami_0223B28F" text="贝赫卡" />
+		<string id="sami_5884EB42" text="阿戈斯" />
+		<string id="sami_610FB160" text="尤瓦" />
+		<string id="sami_D5523D39" text="埃德诺" />
+		<string id="sami_7C29128F" text="拉贡" />
+		<string id="sami_98B4F28B" text="海姆" />
+		<string id="sami_48B813E2" text="维尔黑尔布玛" />
+		<string id="sami_F353055B" text="加利亚加斯" />
+		<string id="sami_D927C27A" text="艾格瑞里" />
+		<string id="sami_318F123E" text="加伊瓦什" />
+		<string id="sami_FEBD90D1" text="达夫韦特" />
+		<string id="sami_892D2177" text="安雅" />
+		<string id="sami_1B822307" text="维谷" />
+		<string id="sami_0F4530EC" text="萨尔莫" />
+		<string id="sami_7D907479" text="约夫苏特" />
+		<string id="sami_E0B73E37" text="奥夫拉" />
+		<string id="sami_18AEBC2F" text="阿尔法" />
+		<string id="sami_304CDDA7" text="尤霍" />
+		<string id="sami_5366B3F5" text="埃勒斯" />
+		<string id="sami_25F09B1F" text="比格尔" />
+		<string id="sami_0809246A" text="约夫查" />
+		<string id="sami_9223AB22" text="罗伯塔" />
+		<string id="sami_1A62DD1F" text="汉达" />
+		<string id="sami_645EB07E" text="加利亚加斯" />
+		<string id="sami_C6A7795A" text="维奥拉" />
+		<string id="sami_8A929AD4" text="默亚努" />
+		<string id="sami_677897F4" text="米戈" />
+		<string id="sami_9FCAE144" text="米拉茨" />
+		<string id="sami_1636691E" text="贝尔图" />
+		<string id="sami_58429BEC" text="伊萨特" />
+		<string id="sami_9430B664" text="尼尔瑟" />
+		
+		<string id="sami_ED82AE8D" text="玛蒂尔达" />
+		<string id="sami_23A7B082" text="杜洛" />
+		<string id="sami_5631A6F3" text="艾拉" />
+		<string id="sami_4C4669FC" text="海尔韦" />
+		<string id="sami_71268F42" text="卡约林纳" />
+		<string id="sami_56ABE173" text="蒂纳" />
+		<string id="sami_387BE217" text="伊卡" />
+		<string id="sami_560FB7F1" text="海迪" />
+		<string id="sami_CB9DFEAB" text="努拉" />
+		<string id="sami_B30DD3F5" text="阿莱塔" />
+		<string id="sami_8E66048D" text="埃莉萨" />
+		<string id="sami_5FB71049" text="梅凯" />
+		<string id="sami_CC4CF91A" text="丽塔" />
+		<string id="sami_047EE0A9" text="比尔格" />
+		<string id="sami_A7C99A32" text="纳斯蒂" />
+		<string id="sami_6D78EC8D" text="奎赫" />
+		<string id="sami_A22D8393" text="宁格" />
+		<string id="sami_5505E963" text="莱德纳" />
+		<string id="sami_667C8C6D" text="索费" />
+		<string id="sami_C53F3120" text="达韦纳" />
+		<string id="sami_F4037B0D" text="尼亚韦什" />
+		<string id="sami_1064DF89" text="汉娜" />
+		<string id="sami_6A217B8C" text="马德娜" />
+		<string id="sami_3A8A78A0" text="索尼娅" />
+		<string id="sami_D009F4E6" text="因科" />
+		<string id="sami_47FA576D" text="索巴" />
+		<string id="sami_677AA683" text="卡约林纳" />
+		<string id="sami_6C8871D3" text="马德娜" />
+		<string id="sami_B2BC2FAC" text="里斯蒂纳" />
+		<string id="sami_84912D33" text="阿夫拉" />
+		<string id="sami_0301643B" text="苏贾" />
+		<string id="sami_88E94BDC" text="巴夫拉" />
+		<string id="sami_769C13D3" text="利安娜" />
+		<string id="sami_0FD038D1" text="米米" />
+		<string id="sami_FCC429D4" text="阿涅特" />
+		<string id="sami_2646316C" text="埃斯泰" />
+		<string id="sami_99184349" text="比雷" />
+		<string id="sami_633C13CF" text="泽尔布曼" />
+		
+		<string id="sami_3ADDCF09" text="拉迪斯" />
+		<string id="sami_E84875C7" text="巴卡斯" />
+		<string id="sami_35C15555" text="伊阿帕德斯" />
+		<string id="sami_73BB146A" text="戈尔基" />
+		<string id="sami_A635F9FE" text="希耶" />
+		<string id="sami_79804209" text="米哈伊尔 " />
+		<string id="sami_6E99A4FF" text="古勒比夫迪" />
+		<string id="sami_2615E960" text="鲁比" />
+		<string id="sami_0BAED216" text="达维尔" />
+		<string id="sami_5DF45E13" text="乌斯特拉斯" />
+		
+		<!--spkingdoms_sami文件中的字符-->
+		<string id="sami_kingdom_name" text="萨米" />
+		<string id="sami_kingdom_short_name" text="萨米" />
+		<string id="sami_kingdom_title" text="萨米" />
+		<string id="sami_ruler_title" text="酋长" />
+		<string id="sami_kingdom_text" text="萨米人,也称拉普人，是北欧地区的原住民，欧洲最大的原住民族群之一，也是欧洲目前仅存的游牧民族。萨米人的语言是萨米语，属于芬兰-乌戈尔语族。萨米人的开垦地区常被简称为“拉普兰”，但萨米人的开垦区远广于瑞典历史上的拉普兰。他们把自己所开垦的区域称为萨米，横跨芬兰、挪威、瑞典、俄罗斯四国国境，包括瑞典两万人、挪威北部四万人、芬兰六千五百人和俄罗斯科拉半岛的部分地区两千人。瑞典境内萨米人的居住区是世界文化与自然双重遗产。" />
+		
+		<!--spclans_sami文件中的字符-->
+		<string id="Sami_Rurik" text="奥伊维" />
+		<string id="Sami_Monomakh" text="斯卡伍德" />
+		<string id="Sami_Davyd" text="加拉纳斯" />
+		<string id="Sami_Iaroslav" text="埃尔利" />
+		<string id="Sami_Oleg" text="阿尔卡拉斯" />
+		<string id="Sami_Sviatoslav" text="安蒂赫卡" />
+		<string id="Sami_Mstislav" text="杰米希特" />
+
+		<!--heroes_sami文件中的字符-->
+		<!--<string id="ECM_lord_goldenhorde_6_1_text" text="" />-->
+
+		<!--lords_goldenhorde文件中的字符-->
+		<string id="Sami_Curtnaš" text="库尔纳什" />
+		<string id="Sami_Janihtá" text="雅尼赫塔" />
+		<string id="Sami_Biejan" text="比扬" />
+		<string id="Sami_Aliinná" text="阿利纳" />
+		<string id="Sami_Silvu" text="西尔穆" />
+		<string id="Sami_Olgá" text="奥尔加" />
+		<string id="Sami_Nihkke" text="尼赫克" />
+		<string id="Sami_Lindá" text="林达" />
+		<string id="Sami_Fretterat" text="弗雷特拉特" />
+		<string id="Sami_Emel" text="埃梅尔" />
+		<string id="Sami_Gáktu" text="加克图" />
+		<string id="Sami_Máren" text="马伦" />
+		<string id="Sami_Lenne" text="莱纳" />
+		<string id="Sami_Násti" text="纳斯蒂" />
+		<string id="Sami_Uvllá" text="乌弗拉" />
+		<string id="Sami_Viggu" text="维谷" />
+		<string id="Sami_Biijá" text="比亚" />
+		<string id="Sami_Ásllat" text="阿斯拉特" />
+		<string id="Sami_Bierdna" text="比尔德纳" />
+		<string id="Sami_Sofe" text="索菲" />
+		<string id="Sami_Hegon" text="赫贡" />
+		<string id="Sami_Mariánne" text="玛丽安娜" />
+		<string id="Sami_Jáhkot" text="雅克特" />
+		<string id="Sami_Iŋgir" text="因吉尔" />
+		<string id="Sami_Áillon" text="阿永" />
+		<string id="Sami_Filpa" text="菲尔帕" />
+		<string id="Sami_Leammá" text="莱马" />
+		<string id="Sami_Livli" text="丽芙" />
+		<string id="Sami_Bijáš" text="比嘉" />
+		<string id="Sami_Sáddja" text="萨迪亚" />
+		
+		<!--spnpccharacters_sami文件中的字符-->
+		<string id="Sami_guard" text="守卫" />
+		<string id="Sami_XgjXfmM1" text="监狱守卫" />
+		<string id="Sami_bNnQt4jN" text="铁匠" />
+		<string id="Sami_UaN2lfwi" text="武器匠" />
+		<string id="Sami_WH7EGGIg" text="理发师" />
+		<string id="Sami_femaleinfant" text="女婴" />
+		<string id="Sami_femalechild" text="女孩" />
+		<string id="Sami_femaleteenager" text="少女" />
+		<string id="Sami_W2WXkiAh" text="赎金经纪人" />
+		<string id="Sami_LNNXiPyV" text="帮派头目保镖" />
+		<string id="Sami_reoVAtrE" text="公证商人" />
+		<string id="Sami_ECxiXTbF" text="公证匠人" />
+		<string id="Sami_bLMGbLF8" text="公证传教士" />
+		<string id="Sami_AlmaRAib" text="乡间公证人" />
+		<string id="Sami_maleinfant" text="男婴" />
+		<string id="Sami_malechild" text="男孩" />
+		<string id="Sami_maleteenager" text="少年" />
+		<string id="muu5cofb" text="镇民" />
+		<string id="Sami_275LD0Gh" text="店员" />
+		<string id="Sami_CsjtWt1g" text="酒馆店主" />
+		<string id="Sami_twCIejxn" text="赌徒" />
+		<string id="Sami_zfCoeglY" text="吟游诗人" />
+		<string id="Sami_z6RMWTaA" text="酒馆侍女" />
+		<string id="Sami_jx8ohENz" text="盔甲匠" />
+		<string id="Sami_79ElOr2x" text="马匹贩子" />
+		<string id="Sami_thbcgVVO" text="商贩" />
+		<string id="Sami_malebeggar" text="乞丐" />
+		<string id="Sami_femalebeggar" text="女乞丐" />
+		<string id="Sami_X3KYysuv" text="舞者" />
+		<string id="Sami_IHKXNP9H" text="竞技大赛管理员" />
+
+		<string id="Sami_ECM_caravan_master_sami" text="萨米商队头领" />
+		<string id="Sami_ECM_caravan_guard_sami" text="萨米商队护卫" />
+		<string id="Sami_ECM_veteran_caravan_guard_sami" text="萨米历战商队护卫" />
+		<string id="Sami_ECM_armed_trader_sami" text="萨米武装商贩" />
+
+		<string id="Sami_E11NOt01" text="萨米农民" />
+		<string id="Sami Nomad" text="萨米新兵" />
+		<string id="Sami Spearman" text="萨米长矛兵" />
+		<string id="Sami Veteran Spearman" text="萨米历战长矛兵" />
+		<string id="Sami Elite Spearman" text="萨米精英长矛兵" />
+		<string id="Sami Master Spearman" text="萨米宗师长矛兵" />
+		<string id="Sami Axeman" text="萨米斧兵" />
+		<string id="Sami Elite Axeman" text="萨米精英斧兵" />
+		<string id="Sami_sami_polk" text="萨米宗师斧兵" />
+		<string id="Sami Archer" text="萨米弓箭手" />
+		<string id="Sami Veteran Archer" text="萨米历战弓箭手" />
+		<string id="Sami Elite Archer" text="萨米精英弓箭手" />
+		<string id="Sami Master Archer" text="萨米宗师弓箭手" />
+		<string id="Sami Hunter" text="萨米猎人" />
+		<string id="Sami Elite Hunter" text="萨米精英猎人" />
+		<string id="Sami Master Hunter" text="萨米宗师猎人" />
+		<string id="Sami Tribal Warrior" text="萨米部落勇士" />
+		<string id="Sami Elite Tribal Warrior" text="萨米精英部落勇士" />
+		<string id="Sami Mounted Spearman" text="萨米长矛骑兵" />
+		<string id="Sami Elite Mounted Spearman" text="萨米精英长矛骑兵" />
+		<string id="Sami Tribal Chieftan" text="萨米部落酋长" />
+
+		<!--spnpccharactertemplates_sami文件中字符-->
+		<string id="MPEkko8v" text="萨米牧民" />
+		<string id="E11NOn02" text="萨米镇民" />
+
+	</strings>
+</base>

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="简体中文"/>
+ </tags>
+ <strings>
+  <!-- heroes-->
+  <string id="ecmL90aSR5J" text="阿尤布王朝的苏丹是金达·阿尤布。"/>
+  <string id="bizuX0dbuLa" text="阿莱克修斯一世·科穆宁是现任皇帝。在他的带领之下，拜占庭帝国成功地平息了内战，并通过各种军事行动重新收复小亚细亚领土。"/>
+  <string id="bizZwavTRcF" text="约安尼斯。"/>
+
+
+
+
+
+  <!-- spclans-->
+  <string id="Ayyubid_9Y1u2onl" text="阿尤布"/>
+  <string id="Ayyubid_Ayyubid_fvYgmrjG" text="伊斯梅尔"/>
+  <string id="Ayyubid_wFR1ukg9" text="达乌德"/>
+  <string id="Ayyubid_lUfFxWlk" text="穆罕默德"/>
+  <string id="Ayyubid_zY2TQC9t" text="穆萨"/>
+  <string id="Ayyubid_l6JtB97p" text="迪恩"/>
+  <string id="Ayyubid_Aft8nsgn" text="库巴德"/>
+  <string id="Ayyubid_o4wKMT9x" text="凯考斯"/>
+  <string id="Ayyubid_NI1paia1" text="阿克萨赖"/>
+
+  <string id="byzhrWQWgaM" text="科穆宁"/>
+  <string id="byzUQHUu2bj" text="瓦塔特泽斯"/>
+  <string id="byzh7ujXmDx" text="杜卡斯"/>
+  <string id="byz4Dbwdjbe" text="巴列奥略"/>
+  <string id="byz6OEQJV6k" text="拉斯卡里斯"/>
+  <string id="byzBxCRDt5m" text="巴西利亚科斯"/>
+  <string id="byzDs2vQVwr" text="梅利塞诺斯"/>
+  <string id="byz8Wi66Sp2" text="安格洛斯"/>
+  <string id="byzxbkYPXCt" text="普塞罗斯"/>
+
+    <string id="ECM_clan_goldenhorde_1" text="孛儿只斤氏" />
+    <string id="ECM_clan_goldenhorde_2" text="米尔罕" />
+    <string id="ECM_clan_goldenhorde_3" text="阿拉科柳克" />
+    <string id="ECM_clan_goldenhorde_4" text="吉尔吉斯" />
+    <string id="ECM_clan_goldenhorde_5" text="金儿斤" />
+    <string id="ECM_clan_goldenhorde_6" text="库塔格" />
+    <string id="ECM_clan_goldenhorde_7" text="巴拉克·乌尔图" />
+    <string id="ECM_clan_goldenhorde_8" text="奥兰吉德" />
+    <string id="ECM_clan_goldenhorde_9" text="蒙赫巴特" />
+
+    <string id="Rurik" text="留里克" />
+    <string id="Monomakh" text="莫诺马赫" />
+    <string id="Davyd" text="达维德" />
+    <string id="Iaroslav" text="雅罗斯拉夫" />
+    <string id="Oleg" text="奥列格" />
+    <string id="Sviatoslav" text="斯维亚托斯拉夫" />
+    <string id="Mstislav" text="姆斯基斯拉夫" />
+
+    <string id="Sami_Rurik" text="奥伊维" />
+    <string id="Sami_Monomakh" text="斯卡伍德" />
+    <string id="Sami_Davyd" text="加拉纳斯" />
+    <string id="Sami_Iaroslav" text="埃尔利" />
+    <string id="Sami_Oleg" text="阿尔卡拉斯" />
+    <string id="Sami_Sviatoslav" text="安蒂赫卡" />
+    <string id="Sami_Mstislav" text="杰米希特" />
+
+
+
+  <!-- spkingdoms -->
+  <string id="ECM_ayyubidfaction" text="阿尤布王朝"/>
+  <string id="ECM_ayyubidmembers" text="阿尤布王朝"/>
+  <string id="ECM_ayyubidtitle" text="阿尤布苏丹国"/>
+  <string id="ECM_ayyubidrulertitle" text="苏丹"/>
+  <string id="ECM_ayyubidtext" text="阿尤布王朝（Ayyubid dynasty），是12世纪－13世纪统治埃及、叙利亚、也门的伊斯兰教王国。该王朝由库尔德人建立，全盛时期的版图延伸至圣城麦加与北伊拉克。由阿尤布、谢尔库赫兄弟带领的阿尤布家族原先是赞吉王朝的士兵，后来在阿尤布之子、埃及民族英雄萨拉丁带领下获得了独立地位。
+萨拉丁于1169年成为埃及总督。1171年，萨拉丁在阿拉伯帝国法蒂玛王朝末代哈里发死后解散法蒂玛王朝，建立了阿尤布王朝。萨拉丁花费了接下来的十余年去东征西讨，到了1183年，王朝占有埃及、叙利亚、北部美索不达米亚、汉志、也门及西至突尼斯的北非沿岸。在1187年的哈丁战役中，又取得对耶路撒冷王国的胜利，但是不久以后十字军又重新控制了巴勒斯坦的海岸线。
+萨拉丁逝世后，他的儿子们争夺对王朝的控制权，最终由萨拉丁之弟阿迪勒一世于1200年登上苏丹的宝座。但自从1250年代起，尤其是蒙古人在1260年取得对阿尤布王朝的控制之后，王朝愈加衰微。蒙古人离开以后，马穆鲁克人在哈马推翻了阿尤布王朝最后一任统治者。
+尽管时间短暂，但是阿尤布王朝开创了一个经济繁荣的时期，并且使得伊斯兰文明再一次兴盛。"/>
+
+  <string id="ECM_byzantine_name" text="拜占庭帝国"/>
+  <string id="ECM_byzantine_short_name" text="拜占庭帝国"/>
+  <string id="ECM_byzantine_title" text="拜占庭帝国"/>
+  <string id="ECM_byzantine_ruler_title" text="皇帝"/>
+  <string id="ECM_byzantine_text" text="东罗马帝国是一个历史上知名的帝国。罗马帝国自东西分治后，帝国东部罗马政权的延续被称为东罗马帝国（相对于帝国西部的西罗马帝国），16世纪以后，开始有学者称之为拜占庭帝国。其国民在其一千多年的存在期内自称为“罗马帝国”（拉丁语：Imperium Romanum；希腊语：Βασιλεία Ρωμαίων）。帝国位于欧洲东部，领土曾包括欧亚非三大洲的亚洲西部和非洲北部，是古代和中世纪欧洲历史上最悠久的君主制国家。"/>
+
+
+    <string id="ECM_mongol_name" text="金帐汗国" />
+    <string id="ECM_mongol_short_name" text="金帐汗国" />
+    <string id="ECM_mongol_title" text="金帐汗国" />
+    <string id="ECM_mongol_ruler_title" text="可汗" />
+    <string id="ECM_mongol_text" text="1225年，成吉思汗划分了四个儿子的封地。长子术赤的封地在额尔齐斯河以西、花剌子模以北（包括额尔齐斯河流域和阿尔泰山地区），术赤的斡尔朵（行宫）设在额尔齐斯河流域。术赤次子拔都统率“长子军”西征，建立了地跨欧亚的金帐汗国。其居民主要是以操突厥语的奇卜察克人（钦察）和保加尔人为主体。金帐汗国早期的首府为布尔加尔城(前布尔加尔人的故都)。之后金帐汗国在伏尔加河口处建立了新首都萨莱(Saray，来自波斯语，意为“宫殿”)。罗斯诸公国是纳贡的附庸国。" />
+
+    <string id="rus" text="基辅罗斯" />
+    <string id="slavic_text" text="罗斯(Rus)是古代巴尔特人、芬兰乌戈人和东斯拉夫人的土地上的国名。俄罗斯（Russia）、白罗斯（Belarus）即起源于Rus(罗斯)一词。罗斯人，原为瓦良格民族一分支。 9世纪中叶，斯堪的纳维亚半岛（今挪威，瑞典所在地）上的瓦良格人（诺曼人）留里克大公来到诺夫格勒得。因这一支瓦良格人又称“罗斯”人，因此他们统治的地区又被称作“罗斯之地”。公元882年，留里克的继任者奥列格大公攻占基辅，并打算将基辅城变为“罗斯人所统治的各城市之母”，便以基辅为首都，建立了新的国家——基辅罗斯。" />
+    <string id="rus_kingdom_name" text="基辅罗斯公国" />
+    <string id="rus_kingdom_short_name" text="基辅罗斯" />
+    <string id="rus_kingdom_title" text="基辅罗斯公国" />
+    <string id="rus_ruler_title" text="大公" />
+    <string id="rus_kingdom_text" text="罗斯(Rus)是古代巴尔特人、芬兰乌戈人和东斯拉夫人的土地上的国名。俄罗斯（Russia）、白罗斯（Belarus）即起源于Rus(罗斯)一词。罗斯人，原为瓦良格民族一分支。 9世纪中叶，斯堪的纳维亚半岛（今挪威，瑞典所在地）上的瓦良格人（诺曼人）留里克大公来到诺夫格勒得。因这一支瓦良格人又称“罗斯”人，因此他们统治的地区又被称作“罗斯之地”。公元882年，留里克的继任者奥列格大公攻占基辅，并打算将基辅城变为“罗斯人所统治的各城市之母”，便以基辅为首都，建立了新的国家——基辅罗斯。" />
+
+    <string id="sami_kingdom_name" text="萨米" />
+    <string id="sami_kingdom_short_name" text="萨米" />
+    <string id="sami_kingdom_title" text="萨米" />
+    <string id="sami_ruler_title" text="酋长" />
+    <string id="sami_kingdom_text" text="萨米人,也称拉普人，是北欧地区的原住民，欧洲最大的原住民族群之一，也是欧洲目前仅存的游牧民族。萨米人的语言是萨米语，属于芬兰-乌戈尔语族。萨米人的开垦地区常被简称为“拉普兰”，但萨米人的开垦区远广于瑞典历史上的拉普兰。他们把自己所开垦的区域称为萨米，横跨芬兰、挪威、瑞典、俄罗斯四国国境，包括瑞典两万人、挪威北部四万人、芬兰六千五百人和俄罗斯科拉半岛的部分地区两千人。瑞典境内萨米人的居住区是世界文化与自然双重遗产。" />
+
+
+  <!-- spcultures -->
+    <string id="DB3D0DCF" text="弗拉基米尔" />
+    <string id="A766A261" text="伊万" />
+    <string id="826B6BF8" text="亚历山大" />
+    <string id="923B0EDF" text="鲍里斯" />
+    <string id="4C396ED9" text="米罗斯拉夫" />
+    <string id="15CE6538" text="拉多斯拉夫" />
+    <string id="43CD1B5E" text="雅罗斯拉夫" />
+    <string id="0223B28F" text="奥列格" />
+    <string id="5884EB42" text="斯维亚托斯拉夫" />
+    <string id="610FB160" text="德米特里" />
+    <string id="D5523D39" text="亚罗米尔" />
+    <string id="7C29128F" text="波格丹" />
+    <string id="98B4F28B" text="博莱斯拉夫" />
+    <string id="48B813E2" text="斯坦尼斯拉夫" />
+    <string id="F353055B" text="拉多万" />
+    <string id="D927C27A" text="柳代维特" />
+    <string id="318F123E" text="兹拉坦" />
+    <string id="FEBD90D1" text="莱希" />
+    <string id="892D2177" text="兹比格涅夫" />
+    <string id="1B822307" text="瓦迪斯瓦夫" />
+    <string id="0F4530EC" text="雅罗斯拉夫" />
+    <string id="7D907479" text="博扬" />
+    <string id="E0B73E37" text="罗斯季斯拉夫" />
+    <string id="18AEBC2F" text="瓦茨拉夫" />
+    <string id="304CDDA7" text="雅罗斯瓦夫" />
+    <string id="5366B3F5" text="拉斯洛" />
+    <string id="25F09B1F" text="卡济米尔" />
+    <string id="0809246A" text="梅什科" />
+    <string id="9223AB22" text="普热梅斯瓦夫" />
+    <string id="1A62DD1F" text="斯万内维克" />
+    <string id="645EB07E" text="弗拉斯季米尔" />
+    <string id="C6A7795A" text="兹沃尼米尔" />
+    <string id="8A929AD4" text="博日达尔" />
+    <string id="677897F4" text="韦利米尔" />
+    <string id="9FCAE144" text="德拉戈米尔" />
+    <string id="1636691E" text="拉蒂米尔" />
+    <string id="58429BEC" text="博戈米尔" />
+    <string id="9430B664" text="多布罗米尔" />
+    <string id="ED82AE8D" text="奥莉加" />
+    <string id="23A7B082" text="斯韦特兰娜" />
+    <string id="5631A6F3" text="阿纳斯塔夏德" />
+    <string id="4C4669FC" text="雅罗斯拉娃" />
+    <string id="71268F42" text="卢德米拉" />
+    <string id="56ABE173" text="弗拉斯塔" />
+    <string id="387BE217" text="米连娜" />
+    <string id="560FB7F1" text="罗克萨娜" />
+    <string id="CB9DFEAB" text="德拉加娜" />
+    <string id="B30DD3F5" text="佐拉" />
+    <string id="8E66048D" text="兹登卡" />
+    <string id="5FB71049" text="博任娜" />
+    <string id="CC4CF91A" text="薇拉" />
+    <string id="047EE0A9" text="雅德维加" />
+    <string id="A7C99A32" text="阿格尼耶斯卡" />
+    <string id="6D78EC8D" text="博日察" />
+    <string id="A22D8393" text="拉多斯拉娃" />
+    <string id="5505E963" text="米罗斯拉娃" />
+    <string id="667C8C6D" text="多布罗米拉" />
+    <string id="C53F3120" text="瓦西里萨" />
+    <string id="F4037B0D" text="兹拉塔" />
+    <string id="1064DF89" text="玛丽安娜" />
+    <string id="6A217B8C" text="韦斯娜" />
+    <string id="3A8A78A0" text="苏珊娜" />
+    <string id="D009F4E6" text="玛格达莱娜" />
+    <string id="47FA576D" text="布拉尼斯拉娃" />
+    <string id="677AA683" text="拉德米拉" />
+    <string id="6C8871D3" text="娜杰日达" />
+    <string id="B2BC2FAC" text="达妮察" />
+    <string id="84912D33" text="海伦娜" />
+    <string id="0301643B" text="伊沃娜" />
+    <string id="88E94BDC" text="柳蒂察" />
+    <string id="769C13D3" text="斯拉芙卡" />
+    <string id="0FD038D1" text="薇拉" />
+    <string id="FCC429D4" text="罗扎利娅" />
+    <string id="2646316C" text="斯坦尼斯拉娃" />
+    <string id="99184349" text="卡塔日娜" />
+    <string id="633C13CF" text="达里娜" />
+    <string id="3ADDCF09" text="鲁科维奇" />
+    <string id="E84875C7" text="皮亚斯特" />
+    <string id="35C15555" text="普热米斯尔" />
+    <string id="73BB146A" text="德拉戈耶维奇" />
+    <string id="A635F9FE" text="拉齐维尔" />
+    <string id="79804209" text="基芬" />
+    <string id="6E99A4FF" text="戈斯托姆斯基" />
+    <string id="2615E960" text="雅盖隆" />
+    <string id="0BAED216" text="沃伊诺维奇" />
+    <string id="5DF45E13" text="多蒙东" />
+
+    <string id="sami_DB3D0DCF" text="海格" />
+    <string id="sami_A766A261" text="加拉尔" />
+    <string id="sami_826B6BF8" text="萨莫尔" />
+    <string id="sami_923B0EDF" text="海布木" />
+    <string id="sami_4C396ED9" text="阿伦" />
+    <string id="sami_15CE6538" text="波阿拉" />
+    <string id="sami_43CD1B5E" text="米戈什" />
+    <string id="sami_0223B28F" text="贝赫卡" />
+    <string id="sami_5884EB42" text="阿戈斯" />
+    <string id="sami_610FB160" text="尤瓦" />
+    <string id="sami_D5523D39" text="埃德诺" />
+    <string id="sami_7C29128F" text="拉贡" />
+    <string id="sami_98B4F28B" text="海姆" />
+    <string id="sami_48B813E2" text="维尔黑尔布玛" />
+    <string id="sami_F353055B" text="加利亚加斯" />
+    <string id="sami_D927C27A" text="艾格瑞里" />
+    <string id="sami_318F123E" text="加伊瓦什" />
+    <string id="sami_FEBD90D1" text="达夫韦特" />
+    <string id="sami_892D2177" text="安雅" />
+    <string id="sami_1B822307" text="维谷" />
+    <string id="sami_0F4530EC" text="萨尔莫" />
+    <string id="sami_7D907479" text="约夫苏特" />
+    <string id="sami_E0B73E37" text="奥夫拉" />
+    <string id="sami_18AEBC2F" text="阿尔法" />
+    <string id="sami_304CDDA7" text="尤霍" />
+    <string id="sami_5366B3F5" text="埃勒斯" />
+    <string id="sami_25F09B1F" text="比格尔" />
+    <string id="sami_0809246A" text="约夫查" />
+    <string id="sami_9223AB22" text="罗伯塔" />
+    <string id="sami_1A62DD1F" text="汉达" />
+    <string id="sami_645EB07E" text="加利亚加斯" />
+    <string id="sami_C6A7795A" text="维奥拉" />
+    <string id="sami_8A929AD4" text="默亚努" />
+    <string id="sami_677897F4" text="米戈" />
+    <string id="sami_9FCAE144" text="米拉茨" />
+    <string id="sami_1636691E" text="贝尔图" />
+    <string id="sami_58429BEC" text="伊萨特" />
+    <string id="sami_9430B664" text="尼尔瑟" />
+    <string id="sami_ED82AE8D" text="玛蒂尔达" />
+    <string id="sami_23A7B082" text="杜洛" />
+    <string id="sami_5631A6F3" text="艾拉" />
+    <string id="sami_4C4669FC" text="海尔韦" />
+    <string id="sami_71268F42" text="卡约林纳" />
+    <string id="sami_56ABE173" text="蒂纳" />
+    <string id="sami_387BE217" text="伊卡" />
+    <string id="sami_560FB7F1" text="海迪" />
+    <string id="sami_CB9DFEAB" text="努拉" />
+    <string id="sami_B30DD3F5" text="阿莱塔" />
+    <string id="sami_8E66048D" text="埃莉萨" />
+    <string id="sami_5FB71049" text="梅凯" />
+    <string id="sami_CC4CF91A" text="丽塔" />
+    <string id="sami_047EE0A9" text="比尔格" />
+    <string id="sami_A7C99A32" text="纳斯蒂" />
+    <string id="sami_6D78EC8D" text="奎赫" />
+    <string id="sami_A22D8393" text="宁格" />
+    <string id="sami_5505E963" text="莱德纳" />
+    <string id="sami_667C8C6D" text="索费" />
+    <string id="sami_C53F3120" text="达韦纳" />
+    <string id="sami_F4037B0D" text="尼亚韦什" />
+    <string id="sami_1064DF89" text="汉娜" />
+    <string id="sami_6A217B8C" text="马德娜" />
+    <string id="sami_3A8A78A0" text="索尼娅" />
+    <string id="sami_D009F4E6" text="因科" />
+    <string id="sami_47FA576D" text="索巴" />
+    <string id="sami_677AA683" text="卡约林纳" />
+    <string id="sami_6C8871D3" text="马德娜" />
+    <string id="sami_B2BC2FAC" text="里斯蒂纳" />
+    <string id="sami_84912D33" text="阿夫拉" />
+    <string id="sami_0301643B" text="苏贾" />
+    <string id="sami_88E94BDC" text="巴夫拉" />
+    <string id="sami_769C13D3" text="利安娜" />
+    <string id="sami_0FD038D1" text="米米" />
+    <string id="sami_FCC429D4" text="阿涅特" />
+    <string id="sami_2646316C" text="埃斯泰" />
+    <string id="sami_99184349" text="比雷" />
+    <string id="sami_633C13CF" text="泽尔布曼" />
+    <string id="sami_3ADDCF09" text="拉迪斯" />
+    <string id="sami_E84875C7" text="巴卡斯" />
+    <string id="sami_35C15555" text="伊阿帕德斯" />
+    <string id="sami_73BB146A" text="戈尔基" />
+    <string id="sami_A635F9FE" text="希耶" />
+    <string id="sami_79804209" text="米哈伊尔 " />
+    <string id="sami_6E99A4FF" text="古勒比夫迪" />
+    <string id="sami_2615E960" text="鲁比" />
+    <string id="sami_0BAED216" text="达维尔" />
+    <string id="sami_5DF45E13" text="乌斯特拉斯" />
+
+
+ </strings>
+</base>

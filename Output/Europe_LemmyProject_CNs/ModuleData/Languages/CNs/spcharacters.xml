@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+    <tags>
+        <tag language="简体中文"/>
+    </tags>
+	<!--酒馆中的NPC人物，对应原Mod中spspecialcharacters文件夹下所有文件的汉化-->
+    <strings>
+		<!--spspecialcharacters_ayyubid文件-->
+		<string id="ayyubid_bvjFhiDr" text="“学者”{FIRSTNAME}"/>
+		<string id="ayyubid_vtXRptVa" text="“金血”{FIRSTNAME}"/>
+		<string id="ayyubid_TyxXbqVw" text="“猎隼”{FIRSTNAME}"/>
+		<string id="ayyubid_4GIoPUen" text="“剑客”{FIRSTNAME}"/>
+		<string id="ayyubid_rgdi5Sxa" text="“王子”{FIRSTNAME}"/>
+		<string id="ayyubid_OFWvD0xe" text="“鬣狗”{FIRSTNAME}"/>
+		<string id="ayyubid_muC2SGlM" text="“荒裔”{FIRSTNAME}"/>
+		<string id="ayyubid_28tWEFNi" text="“流浪者”{FIRSTNAME}"/>
+		<string id="ayyubid_XBJtv4mD" text="“香料商”{FIRSTNAME}"/>
+		<string id="ayyubid_NWuGUi4p" text="“雌豹”{FIRSTNAME}"/>
+		<string id="ayyubid_ACqta1a5" text="“工程师”{FIRSTNAME}"/>
+
+		<!--spspecialcharacters_byzantine文件-->
+		<string id="byzbvjFhiDr" text="“学者”{FIRSTNAME}"/>
+		<string id="byzxTQPfmS9" text="“公牛”{FIRSTNAME}"/>
+		<string id="byzIvx4uJVp" text="“沉默者”{FIRSTNAME}"/>
+		<string id="byz1OZBZZCi" text="“野猪”{FIRSTNAME}"/>
+		<string id="byzt9e34kgH" text="“劫犯”{FIRSTNAME}"/>
+		<string id="byzpZSAdyC0" text="“屠夫”{FIRSTNAME}"/>
+		<string id="byzOArAImbM" text="“丘陵人”{FIRSTNAME}"/>
+		<string id="byz28tWEFNi" text="“浪人”{FIRSTNAME}"/>
+		<string id="byzPQkMcfAW" text="“流放者”{FIRSTNAME}"/>
+		<string id="byz7apnGFz7" text="“黑道”{FIRSTNAME}"/>
+		<string id="byz7apnGFz7" text="“急救士”{FIRSTNAME}"/>
+		<string id="byze84pvBYI" text="“被剥夺者”{FIRSTNAME}"/>
+
+		<!--spspecialcharacters_goldenhorde文件-->
+		<string id="GH_sdzaip5J" text="“求知客”{FIRSTNAME}"/>
+		<string id="GH_j2nVPqIX" text="“老鹰”{FIRSTNAME}"/>
+		<string id="GH_agS5lIg7" text="“无父者”{FIRSTNAME}"/>
+		<string id="GH_QWbgE4bw" text="“铁眼”{FIRSTNAME}"/>
+		<string id="GH_ykTARD4b" text="“放逐者”{FIRSTNAME}"/>
+		<string id="GH_q5QjQyde" text="“疯子”{FIRSTNAME}"/>
+		<string id="GH_seS9ZZUW" text="“灰鹘”{FIRSTNAME}"/>
+		<string id="GH_3wzexaA7" text="“母狼”{FIRSTNAME}"/>
+		<string id="GH_OIXub6bS" text="“孤独者”{FIRSTNAME}"/>
+		<string id="GH_KY2zbWkj" text="“捷影”{FIRSTNAME}"/>
+		<string id="GH_CQOlMayc" text="“乞丐”{FIRSTNAME}"/>
+
+		<!--spspecialcharacters_persian文件-->
+		<string id="persian_bvjFhiDr" text="“学者”{FIRSTNAME}"/>
+		<string id="persian_vtXRptVa" text="“金血”{FIRSTNAME}"/>
+		<string id="persian_TyxXbqVw" text="“猎隼”{FIRSTNAME}"/>
+		<string id="persian_4GIoPUen" text="“剑客”{FIRSTNAME}"/>
+		<string id="persian_rgdi5Sxa" text="“王子”{FIRSTNAME}"/>
+		<string id="persian_OFWvD0xe" text="“鬣狗”{FIRSTNAME}"/>
+		<string id="persian_muC2SGlM" text="“荒裔”{FIRSTNAME}"/>
+		<string id="persian_28tWEFNi" text="“流浪者”{FIRSTNAME}"/>
+		<string id="persian_XBJtv4mD" text="“香料商”{FIRSTNAME}"/>
+		<string id="persian_NWuGUi4p" text="“雌豹”{FIRSTNAME}"/>
+		<string id="persian_ACqta1a5" text="“工程师”{FIRSTNAME}"/>
+
+		<!--spspecialcharacters_sami文件-->
+		<string id="Sami_yr5pa0hs" text="“白柳树皮”{FIRSTNAME}"/>
+		<string id="Sami_W7aa22Yl" text="“碎颅者”{FIRSTNAME}"/>
+		<string id="Sami_aE8abvsQ" text="“幸运儿”{FIRSTNAME}"/>
+		<string id="Sami_LmlL8fVu" text="“血斧”{FIRSTNAME}"/>
+		<string id="Sami_WU5GnkvR" text="“鱼人”{FIRSTNAME}"/>
+		<string id="Sami_NSaetzNJ" text="“游方侠客”{FIRSTNAME}"/>
+		<string id="Sami_zXjdb1zT" text="“大胡子”{FIRSTNAME}"/>
+		<string id="Sami_QyQPJJ9B" text="“被诅咒者”{FIRSTNAME}"/>
+		<string id="Sami_rtsnnL2J" text="“盾女”{FIRSTNAME}"/>
+		<string id="Sami_akALDUs0" text="“长匕”{FIRSTNAME}"/>
+	</strings>
+</base>

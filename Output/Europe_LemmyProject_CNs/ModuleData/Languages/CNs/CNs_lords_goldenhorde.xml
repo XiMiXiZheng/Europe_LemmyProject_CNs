@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaLocation="https://www.w3schools.com/xml ../../../../../../resources/language.xsd" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="ECM_lord_goldenhorde_6_1" text="拔都" />
+    <string id="ECM_lord_goldenhorde_6_2" text="喀答干" />
+    <string id="ECM_lord_goldenhorde_6_7" text="萨塔克" />
+    <string id="ECM_lord_goldenhorde_6_10" text="霍格伦" />
+    <string id="ECM_lord_goldenhorde_6_101" text="察合台" />
+    <string id="ECM_lord_goldenhorde_6_13" text="阿波尔图" />
+    <string id="ECM_lord_goldenhorde_6_3" text="吐屯" />
+    <string id="ECM_lord_goldenhorde_6_4" text="乌拉奇" />
+    <string id="ECM_lord_goldenhorde_6_8" text="蒙格里格" />
+    <string id="ECM_lord_goldenhorde_6_81" text="苏伊克图" />
+    <string id="ECM_lord_goldenhorde_6_9" text="托可坎" />
+    <string id="ECM_lord_goldenhorde_6_11" text="窦克兹" />
+    <string id="ECM_lord_goldenhorde_6_5" text="别儿哥" />
+    <string id="ECM_lord_goldenhorde_6_51" text="忙哥" />
+    <string id="ECM_lord_goldenhorde_6_12" text="霍伦" />
+    <string id="ECM_lord_goldenhorde_6_15" text="古尤格" />
+    <string id="ECM_lord_goldenhorde_6_15_1" text="霍里金" />
+    <string id="ECM_lord_goldenhorde_6_15_2" text="阿尔塔" />
+    <string id="ECM_lord_goldenhorde_6_6" text="赤老温" />
+    <string id="ECM_lord_goldenhorde_6_16" text="胡鲁纳格" />
+    <string id="ECM_lord_goldenhorde_6_16_1" text="霍加格钦" />
+    <string id="ECM_lord_goldenhorde_6_16_2" text="特穆伦" />
+    <string id="ECM_lord_goldenhorde_6_24" text="布鲁汗" />
+    <string id="ECM_lord_goldenhorde_6_17" text="胡孙" />
+    <string id="ECM_lord_goldenhorde_6_17_1" text="察古尔" />
+    <string id="ECM_lord_goldenhorde_6_17_2" text="可卡钦" />
+    <string id="ECM_lord_goldenhorde_6_21" text="巴代" />
+    <string id="ECM_lord_goldenhorde_6_21_1" text="阿尔巴德" />
+    <string id="ECM_lord_goldenhorde_6_18" text="合丹" />
+    <string id="ECM_lord_goldenhorde_6_18_1" text="波尔特" />
+    <string id="ECM_lord_goldenhorde_6_18_2" text="满都海" />
+    <string id="ECM_lord_goldenhorde_6_22" text="赤古" />
+    <string id="ECM_lord_goldenhorde_6_22_1" text="胡鲁可汗" />
+    <string id="ECM_lord_goldenhorde_6_19" text="蒙古金" />
+    <string id="ECM_lord_goldenhorde_6_19_1" text="奥琴那" />
+    <string id="ECM_lord_goldenhorde_6_19_2" text="察必" />
+    <string id="ECM_lord_goldenhorde_6_23" text="脱斡邻勒" />
+    <string id="ECM_lord_goldenhorde_6_20" text="坎纳克" />
+    <string id="ECM_lord_goldenhorde_6_20_1" text="忽图伦" />
+    <string id="ECM_lord_goldenhorde_k8_u" text="可里拉泰" />
+    <string id="ECM_lord_goldenhorde_K9_l" text="拖雷" />
+    <string id="ECM_lord_goldenhorde_K9_s" text="也遂" />
+    <string id="ECM_lord_goldenhorde_K9_c1" text="波尔图" />
+    <string id="ECM_lord_goldenhorde_K9_c2" text="忽兰" />
+  </strings>
+</base>
